@@ -1,0 +1,200 @@
+---
+title: "Kosciusko 2024 Vote Totals"
+author: "Dr. Ryan T. Johnson"
+format:
+  dashboard:
+    theme: simplex
+    logo: images/TL-wordmark.jpg
+    logo-link: "https://www.tobylemon.com/"
+server: shiny
+---
+
+```{r}
+#| context: setup
+#| message: false
+#| echo: false
+#| warning: false
+#| output: false
+library(shiny)
+library(shinyWidgets)
+library(tidyverse)
+library(plotly)
+library(htmltools)
+library(sf)
+library(leaflet)
+
+fed_state <- st_read("data/kosciusko_fed_and_state.shp") |>
+  rename(Precinct_Name = Prcnc_N,
+         Registered_voters = Rgstrd_,
+         Voter_subset = Vtr_sbs)
+
+county_school <- st_read("data/kosciusko_county_and_school.shp") |>
+  rename(Precinct_Name = Prcnc_N,
+         Registered_voters = Rgstrd_,
+         Voter_subset = Vtr_sbs)
+
+vote_on_sf <- unique(fed_state$Vote_on)
+vote_on_cs <- unique(county_school$Vote_on)
+voter_subset_sf <- unique(fed_state$Voter_subset)
+voter_subset_cs <- unique(county_school$Voter_subset)
+```
+
+
+
+
+
+
+
+# Federal and State
+
+## {.sidebar width="300px"}
+
+```{r}
+radioButtons("voter_subset_sf",
+             label = "Subset",
+             choices = voter_subset_sf,
+             selected = "Total")
+
+radioButtons("vote_on_sf",
+             label = "Vote Topic",
+             choices = vote_on_sf,
+             selected = 'President and Vice-President of the U.S.')
+```
+
+
+## Column
+
+```{r}
+leafletOutput('map_sf')
+```
+
+# County and School Board
+## {.sidebar width="300px"}
+
+```{r}
+radioButtons("voter_subset_cs",
+             label = "Subset",
+             choices = voter_subset_cs,
+             selected = "Total")
+
+radioButtons("vote_on_cs",
+             label = "Vote Topic",
+             choices = vote_on_cs,
+             selected = "County Council Member At Large")
+```
+
+## Column
+
+```{r}
+leafletOutput('map_cs')
+```
+
+# Info {orientation="columns"}
+
+## Column {width="40%"}
+
+![](images/headshot3.jpg)
+
+## Column {width="60%"}
+
+::: {.card title="About The Author" fill="false"}
+This dashboard was created by Dr. Ryan T. Johnson, math professor at [Grace College](https://www.grace.edu/) and consultant for [Toby Lemon](https://www.tobylemon.com/).  He can be reached at [johnsor@grace.edu](mailto:johnsor@grace.edu) or at [ryan.johnson.wi@gmail.com](mailto:ryan.johnson.wi@gmail.com) for data science consulting.
+:::
+
+::: {.card title="Acknowledgements" fill="false"}
+This data came from the Koscuiusko County [website](https://www.kosciusko.in.gov/department/division.php?structureid=175), specifically this [pdf](https://www.kosciusko.in.gov/egov/apps/document/center.egov?view=item&id=3928).  Thank you to Bill Holder, Kosciusko County GIS Director, for sharing the precinct shapefiles. 
+:::
+
+
+```{r}
+#| context: server
+
+vote_on_sf <- reactive({
+  req(input$vote_on_sf, input$voter_subset_sf)
+  fed_state |>
+    filter(Vote_on == input$vote_on_sf,
+         Voter_subset == input$voter_subset_sf)
+})
+
+vote_on_cs <- reactive({
+  req(input$vote_on_cs, input$voter_subset_cs)
+  county_school |>
+    filter(Vote_on == input$vote_on_cs,
+         Voter_subset == input$voter_subset_cs)
+})
+
+output$map_sf <- renderLeaflet({
+  pal <- colorNumeric("RdBu", domain = c(0,1))
+  
+  labels <- sprintf(
+      "<strong>%s</strong> (%g reg. voters)<br/>%s",
+      vote_on_sf()$Precinct_Name,
+      vote_on_sf()$Registered_voters,
+      vote_on_sf()$label
+    ) %>%
+    lapply(htmltools::HTML)
+  
+  vote_on_sf() |>
+    leaflet() |>
+    addTiles() |>
+    addPolygons(fillColor = ~pal(color),
+                weight=2,
+                opacity = 1,
+                color = "white",
+                dashArray = "3",
+                fillOpacity = 0.7,
+                highlightOptions = highlightOptions(
+                  weight = 5,
+                  color = "#666",
+                  dashArray = "",
+                  fillOpacity = 0.7,
+                  bringToFront = TRUE
+                ),
+                label = labels,
+                labelOptions = labelOptions(
+                  style = list("font-weight" = "normal",
+                               padding = "3px 8px"),
+                  textsize = "10px",
+                  dirrection = "auto"
+                )
+  )
+})
+
+output$map_cs <- renderLeaflet({
+  pal <- colorNumeric("PiYG", domain = c(0,1))
+  
+  labels <- sprintf(
+      "<strong>%s</strong> (%g reg. voters)<br/>%s",
+      vote_on_cs()$Precinct_Name,
+      vote_on_cs()$Registered_voters,
+      vote_on_cs()$label
+    ) %>%
+    lapply(htmltools::HTML)
+  
+  vote_on_cs() |>
+    leaflet() |>
+    addTiles() |>
+    addPolygons(fillColor = ~pal(color),
+                weight=2,
+                opacity = 1,
+                color = "white",
+                dashArray = "3",
+                fillOpacity = 0.7,
+                highlightOptions = highlightOptions(
+                  weight = 5,
+                  color = "#666",
+                  dashArray = "",
+                  fillOpacity = 0.7,
+                  bringToFront = TRUE
+                ),
+                label = labels,
+                labelOptions = labelOptions(
+                  style = list("font-weight" = "normal",
+                               padding = "3px 8px"),
+                  textsize = "10px",
+                  dirrection = "auto"
+                )
+  )
+})
+```
+

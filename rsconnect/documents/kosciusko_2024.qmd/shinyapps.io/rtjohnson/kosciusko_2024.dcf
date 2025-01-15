@@ -1,0 +1,14 @@
+name: kosciusko_2024
+title: kosciusko_2024
+username: rtjohnson
+account: rtjohnson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13716938
+bundleId: 9647949
+url: https://rtjohnson.shinyapps.io/kosciusko_2024/
+version: 1
+quarto_version: 1.5.57
+quarto_engines: knitr
+asMultiple: FALSE
+asStatic: FALSE
