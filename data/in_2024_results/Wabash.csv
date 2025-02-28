@@ -1,0 +1,1230 @@
+,county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
+0,Wabash,001-Noble 01,Ballots Cast,,,,150,5,165,320
+1,Wabash,001-Noble 01,Registered Voters,,,,,,,550
+2,Wabash,001-Noble 01,Public Question-Const Amendment,,,Yes,70,1,69,140
+3,Wabash,001-Noble 01,Public Question-Const Amendment,,,No,60,3,71,134
+4,Wabash,001-Noble 01,President and Vice-President of the U.S.,,REP,Trump \ Vance,115,0,134,249
+5,Wabash,001-Noble 01,President and Vice-President of the U.S.,,DEM,Harris \ Walz,29,4,27,60
+6,Wabash,001-Noble 01,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,2,0,0,2
+7,Wabash,001-Noble 01,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,1,0,1,2
+8,Wabash,001-Noble 01,President and Vice-President of the U.S.,,,Write-In,1,0,1,2
+9,Wabash,001-Noble 01,United States Senator,,REP,Jim Banks,108,1,133,242
+10,Wabash,001-Noble 01,United States Senator,,DEM,Valerie McCray,25,4,25,54
+11,Wabash,001-Noble 01,United States Senator,,LIB,Andrew Horning,4,0,3,7
+12,Wabash,001-Noble 01,United States Senator,,,Write-In,1,0,0,1
+13,Wabash,001-Noble 01,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,90,1,115,206
+14,Wabash,001-Noble 01,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,35,4,31,70
+15,Wabash,001-Noble 01,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,12,0,14,26
+16,Wabash,001-Noble 01,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+17,Wabash,001-Noble 01,Attorney General,,REP,Todd Rokita,106,1,128,235
+18,Wabash,001-Noble 01,Attorney General,,DEM,Destiny Wells,35,4,34,73
+19,Wabash,001-Noble 01,United States Representative,2,REP,Rudy Yakym,97,1,133,231
+20,Wabash,001-Noble 01,United States Representative,2,DEM,Lori A. Camp,30,4,26,60
+21,Wabash,001-Noble 01,United States Representative,2,LIB,William E. Henry,10,0,1,11
+22,Wabash,001-Noble 01,United States Representative,2,,Write-In,0,0,0,0
+23,Wabash,001-Noble 01,State Representative,50,REP,Lorissa Sweet,111,1,133,245
+24,Wabash,001-Noble 01,State Representative,50,DEM,Joe Swisher,28,4,28,60
+25,Wabash,001-Noble 01,County Auditor,,REP,Shelly Baucco,119,3,143,265
+26,Wabash,001-Noble 01,County Treasurer,,REP,Brenda Hegel,114,3,138,255
+27,Wabash,001-Noble 01,County Coroner,,REP,Ken Brown,119,3,143,265
+28,Wabash,001-Noble 01,County Surveyor,,REP,Cheri Slee,117,3,139,259
+29,Wabash,001-Noble 01,County Commissioner District 1,,REP,Cheryl Ross,118,3,141,262
+30,Wabash,001-Noble 01,County Commissioner District 3,,REP,Tyler J. Niccum,118,3,140,261
+31,Wabash,001-Noble 01,County Council Member At Large,,REP,Matt Dillon,100,2,101,203
+32,Wabash,001-Noble 01,County Council Member At Large,,REP,Nicholas Jay Kopkey,56,0,69,125
+33,Wabash,001-Noble 01,County Council Member At Large,,REP,David W. Terflinger,55,0,71,126
+34,Wabash,001-Noble 01,County Council Member At Large,,DEM,John T. Hargenrader,19,2,20,41
+35,Wabash,001-Noble 01,County Council Member At Large,,DEM,Tammy Ingalls,28,2,26,56
+36,Wabash,001-Noble 01,IN Supreme Court-Rush,,,Yes,79,3,93,175
+37,Wabash,001-Noble 01,IN Supreme Court-Rush,,,No,32,1,24,57
+38,Wabash,001-Noble 01,IN Supreme Court-Massa,,,Yes,77,2,92,171
+39,Wabash,001-Noble 01,IN Supreme Court-Massa,,,No,36,1,20,57
+40,Wabash,001-Noble 01,IN Supreme Court-Molter,,,Yes,84,3,99,186
+41,Wabash,001-Noble 01,IN Supreme Court-Molter,,,No,33,0,19,52
+42,Wabash,001-Noble 01,Court of Appeals Dist 4-Pyle III,,,Yes,80,2,97,179
+43,Wabash,001-Noble 01,Court of Appeals Dist 4-Pyle III,,,No,36,1,23,60
+44,Wabash,002-Noble 02,Ballots Cast,,,,148,35,147,330
+45,Wabash,002-Noble 02,Registered Voters,,,,,,,633
+46,Wabash,002-Noble 02,Public Question-Const Amendment,,,Yes,72,10,60,142
+47,Wabash,002-Noble 02,Public Question-Const Amendment,,,No,57,6,58,121
+48,Wabash,002-Noble 02,President and Vice-President of the U.S.,,REP,Trump \ Vance,105,12,84,201
+49,Wabash,002-Noble 02,President and Vice-President of the U.S.,,DEM,Harris \ Walz,37,23,59,119
+50,Wabash,002-Noble 02,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,1,0,2,3
+51,Wabash,002-Noble 02,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,5,0,1,6
+52,Wabash,002-Noble 02,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
+53,Wabash,002-Noble 02,United States Senator,,REP,Jim Banks,93,14,83,190
+54,Wabash,002-Noble 02,United States Senator,,DEM,Valerie McCray,38,21,53,112
+55,Wabash,002-Noble 02,United States Senator,,LIB,Andrew Horning,4,0,4,8
+56,Wabash,002-Noble 02,United States Senator,,,Write-In,0,0,1,1
+57,Wabash,002-Noble 02,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,91,11,76,178
+58,Wabash,002-Noble 02,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,37,12,58,107
+59,Wabash,002-Noble 02,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,11,2,8,21
+60,Wabash,002-Noble 02,Governor And Lieutenant Governor,,,Write-In,0,0,1,1
+61,Wabash,002-Noble 02,Attorney General,,REP,Todd Rokita,105,11,83,199
+62,Wabash,002-Noble 02,Attorney General,,DEM,Destiny Wells,40,15,58,113
+63,Wabash,002-Noble 02,United States Representative,2,REP,Rudy Yakym,90,12,81,183
+64,Wabash,002-Noble 02,United States Representative,2,DEM,Lori A. Camp,40,21,56,117
+65,Wabash,002-Noble 02,United States Representative,2,LIB,William E. Henry,11,2,6,19
+66,Wabash,002-Noble 02,United States Representative,2,,Write-In,0,0,0,0
+67,Wabash,002-Noble 02,State Representative,50,REP,Lorissa Sweet,106,13,85,204
+68,Wabash,002-Noble 02,State Representative,50,DEM,Joe Swisher,35,13,55,103
+69,Wabash,002-Noble 02,County Auditor,,REP,Shelly Baucco,112,15,109,236
+70,Wabash,002-Noble 02,County Treasurer,,REP,Brenda Hegel,109,16,106,231
+71,Wabash,002-Noble 02,County Coroner,,REP,Ken Brown,110,16,104,230
+72,Wabash,002-Noble 02,County Surveyor,,REP,Cheri Slee,109,14,104,227
+73,Wabash,002-Noble 02,County Commissioner District 1,,REP,Cheryl Ross,109,15,105,229
+74,Wabash,002-Noble 02,County Commissioner District 3,,REP,Tyler J. Niccum,114,16,110,240
+75,Wabash,002-Noble 02,County Council Member At Large,,REP,Matt Dillon,89,9,71,169
+76,Wabash,002-Noble 02,County Council Member At Large,,REP,Nicholas Jay Kopkey,52,9,41,102
+77,Wabash,002-Noble 02,County Council Member At Large,,REP,David W. Terflinger,55,4,39,98
+78,Wabash,002-Noble 02,County Council Member At Large,,DEM,John T. Hargenrader,21,9,33,63
+79,Wabash,002-Noble 02,County Council Member At Large,,DEM,Tammy Ingalls,29,10,46,85
+80,Wabash,002-Noble 02,IN Supreme Court-Rush,,,Yes,82,11,78,171
+81,Wabash,002-Noble 02,IN Supreme Court-Rush,,,No,30,9,22,61
+82,Wabash,002-Noble 02,IN Supreme Court-Massa,,,Yes,80,8,78,166
+83,Wabash,002-Noble 02,IN Supreme Court-Massa,,,No,32,11,19,62
+84,Wabash,002-Noble 02,IN Supreme Court-Molter,,,Yes,85,10,77,172
+85,Wabash,002-Noble 02,IN Supreme Court-Molter,,,No,28,8,23,59
+86,Wabash,002-Noble 02,Court of Appeals Dist 4-Pyle III,,,Yes,86,10,78,174
+87,Wabash,002-Noble 02,Court of Appeals Dist 4-Pyle III,,,No,26,10,21,57
+88,Wabash,003-Noble 03,Ballots Cast,,,,207,27,293,527
+89,Wabash,003-Noble 03,Registered Voters,,,,,,,914
+90,Wabash,003-Noble 03,Public Question-Const Amendment,,,Yes,102,7,122,231
+91,Wabash,003-Noble 03,Public Question-Const Amendment,,,No,84,13,127,224
+92,Wabash,003-Noble 03,President and Vice-President of the U.S.,,REP,Trump \ Vance,148,14,213,375
+93,Wabash,003-Noble 03,President and Vice-President of the U.S.,,DEM,Harris \ Walz,48,13,74,135
+94,Wabash,003-Noble 03,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,2,0,0,2
+95,Wabash,003-Noble 03,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,4,0,2,6
+96,Wabash,003-Noble 03,President and Vice-President of the U.S.,,,Write-In,1,0,2,3
+97,Wabash,003-Noble 03,United States Senator,,REP,Jim Banks,140,15,204,359
+98,Wabash,003-Noble 03,United States Senator,,DEM,Valerie McCray,45,12,66,123
+99,Wabash,003-Noble 03,United States Senator,,LIB,Andrew Horning,12,0,5,17
+100,Wabash,003-Noble 03,United States Senator,,,Write-In,0,0,0,0
+101,Wabash,003-Noble 03,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,126,14,191,331
+102,Wabash,003-Noble 03,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,48,13,72,133
+103,Wabash,003-Noble 03,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,22,0,16,38
+104,Wabash,003-Noble 03,Governor And Lieutenant Governor,,,Write-In,0,0,1,1
+105,Wabash,003-Noble 03,Attorney General,,REP,Todd Rokita,144,14,211,369
+106,Wabash,003-Noble 03,Attorney General,,DEM,Destiny Wells,53,12,71,136
+107,Wabash,003-Noble 03,United States Representative,2,REP,Rudy Yakym,129,14,201,344
+108,Wabash,003-Noble 03,United States Representative,2,DEM,Lori A. Camp,49,12,70,131
+109,Wabash,003-Noble 03,United States Representative,2,LIB,William E. Henry,17,1,9,27
+110,Wabash,003-Noble 03,United States Representative,2,,Write-In,0,0,0,0
+111,Wabash,003-Noble 03,State Representative,50,REP,Lorissa Sweet,150,15,214,379
+112,Wabash,003-Noble 03,State Representative,50,DEM,Joe Swisher,49,12,66,127
+113,Wabash,003-Noble 03,County Auditor,,REP,Shelly Baucco,176,19,234,429
+114,Wabash,003-Noble 03,County Treasurer,,REP,Brenda Hegel,166,21,228,415
+115,Wabash,003-Noble 03,County Coroner,,REP,Ken Brown,171,18,225,414
+116,Wabash,003-Noble 03,County Surveyor,,REP,Cheri Slee,168,17,222,407
+117,Wabash,003-Noble 03,County Commissioner District 1,,REP,Cheryl Ross,166,18,225,409
+118,Wabash,003-Noble 03,County Commissioner District 3,,REP,Tyler J. Niccum,177,18,229,424
+119,Wabash,003-Noble 03,County Council Member At Large,,REP,Matt Dillon,118,12,164,294
+120,Wabash,003-Noble 03,County Council Member At Large,,REP,Nicholas Jay Kopkey,71,9,101,181
+121,Wabash,003-Noble 03,County Council Member At Large,,REP,David W. Terflinger,68,9,87,164
+122,Wabash,003-Noble 03,County Council Member At Large,,DEM,John T. Hargenrader,37,8,52,97
+123,Wabash,003-Noble 03,County Council Member At Large,,DEM,Tammy Ingalls,47,10,59,116
+124,Wabash,003-Noble 03,MSD of Wabash SB Northeast District,,,Christian Rosen,0,0,2,2
+125,Wabash,003-Noble 03,MSD of Wabash SB Northwest District,,,Scott A. Haupert,0,0,1,1
+126,Wabash,003-Noble 03,MSD of Wabash SB South District,,,Kevin R. Bowman,0,0,1,1
+127,Wabash,003-Noble 03,IN Supreme Court-Rush,,,Yes,114,13,168,295
+128,Wabash,003-Noble 03,IN Supreme Court-Rush,,,No,51,5,56,112
+129,Wabash,003-Noble 03,IN Supreme Court-Massa,,,Yes,110,13,160,283
+130,Wabash,003-Noble 03,IN Supreme Court-Massa,,,No,52,4,63,119
+131,Wabash,003-Noble 03,IN Supreme Court-Molter,,,Yes,114,14,164,292
+132,Wabash,003-Noble 03,IN Supreme Court-Molter,,,No,51,3,64,118
+133,Wabash,003-Noble 03,Court of Appeals Dist 4-Pyle III,,,Yes,106,16,170,292
+134,Wabash,003-Noble 03,Court of Appeals Dist 4-Pyle III,,,No,61,1,59,121
+135,Wabash,004-Noble 04,Ballots Cast,,,,178,26,259,463
+136,Wabash,004-Noble 04,Registered Voters,,,,,,,719
+137,Wabash,004-Noble 04,Public Question-Const Amendment,,,Yes,87,10,111,208
+138,Wabash,004-Noble 04,Public Question-Const Amendment,,,No,70,9,116,195
+139,Wabash,004-Noble 04,President and Vice-President of the U.S.,,REP,Trump \ Vance,120,9,165,294
+140,Wabash,004-Noble 04,President and Vice-President of the U.S.,,DEM,Harris \ Walz,54,15,90,159
+141,Wabash,004-Noble 04,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,0,0,1,1
+142,Wabash,004-Noble 04,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,3,2,1,6
+143,Wabash,004-Noble 04,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
+144,Wabash,004-Noble 04,United States Senator,,REP,Jim Banks,113,9,165,287
+145,Wabash,004-Noble 04,United States Senator,,DEM,Valerie McCray,48,13,78,139
+146,Wabash,004-Noble 04,United States Senator,,LIB,Andrew Horning,6,2,4,12
+147,Wabash,004-Noble 04,United States Senator,,,Write-In,0,0,0,0
+148,Wabash,004-Noble 04,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,98,8,147,253
+149,Wabash,004-Noble 04,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,58,13,85,156
+150,Wabash,004-Noble 04,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,12,3,15,30
+151,Wabash,004-Noble 04,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+152,Wabash,004-Noble 04,Attorney General,,REP,Todd Rokita,122,11,160,293
+153,Wabash,004-Noble 04,Attorney General,,DEM,Destiny Wells,51,13,91,155
+154,Wabash,004-Noble 04,United States Representative,2,REP,Rudy Yakym,109,12,159,280
+155,Wabash,004-Noble 04,United States Representative,2,DEM,Lori A. Camp,53,11,82,146
+156,Wabash,004-Noble 04,United States Representative,2,LIB,William E. Henry,4,1,9,14
+157,Wabash,004-Noble 04,United States Representative,2,,Write-In,0,0,0,0
+158,Wabash,004-Noble 04,State Representative,50,REP,Lorissa Sweet,114,9,164,287
+159,Wabash,004-Noble 04,State Representative,50,DEM,Joe Swisher,56,15,86,157
+160,Wabash,004-Noble 04,County Auditor,,REP,Shelly Baucco,142,14,197,353
+161,Wabash,004-Noble 04,County Treasurer,,REP,Brenda Hegel,139,14,195,348
+162,Wabash,004-Noble 04,County Coroner,,REP,Ken Brown,138,15,193,346
+163,Wabash,004-Noble 04,County Surveyor,,REP,Cheri Slee,139,15,195,349
+164,Wabash,004-Noble 04,County Commissioner District 1,,REP,Cheryl Ross,135,15,192,342
+165,Wabash,004-Noble 04,County Commissioner District 3,,REP,Tyler J. Niccum,141,14,203,358
+166,Wabash,004-Noble 04,County Council Member At Large,,REP,Matt Dillon,107,12,145,264
+167,Wabash,004-Noble 04,County Council Member At Large,,REP,Nicholas Jay Kopkey,73,8,92,173
+168,Wabash,004-Noble 04,County Council Member At Large,,REP,David W. Terflinger,75,9,90,174
+169,Wabash,004-Noble 04,County Council Member At Large,,DEM,John T. Hargenrader,34,6,66,106
+170,Wabash,004-Noble 04,County Council Member At Large,,DEM,Tammy Ingalls,45,11,82,138
+171,Wabash,004-Noble 04,IN Supreme Court-Rush,,,Yes,108,13,160,281
+172,Wabash,004-Noble 04,IN Supreme Court-Rush,,,No,31,6,46,83
+173,Wabash,004-Noble 04,IN Supreme Court-Massa,,,Yes,96,12,154,262
+174,Wabash,004-Noble 04,IN Supreme Court-Massa,,,No,37,6,49,92
+175,Wabash,004-Noble 04,IN Supreme Court-Molter,,,Yes,103,13,158,274
+176,Wabash,004-Noble 04,IN Supreme Court-Molter,,,No,34,5,47,86
+177,Wabash,004-Noble 04,Court of Appeals Dist 4-Pyle III,,,Yes,104,12,155,271
+178,Wabash,004-Noble 04,Court of Appeals Dist 4-Pyle III,,,No,33,6,49,88
+179,Wabash,005-Noble 05,Ballots Cast,,,,231,15,278,524
+180,Wabash,005-Noble 05,Registered Voters,,,,,,,813
+181,Wabash,005-Noble 05,Public Question-Const Amendment,,,Yes,125,5,135,265
+182,Wabash,005-Noble 05,Public Question-Const Amendment,,,No,82,7,110,199
+183,Wabash,005-Noble 05,President and Vice-President of the U.S.,,REP,Trump \ Vance,167,12,190,369
+184,Wabash,005-Noble 05,President and Vice-President of the U.S.,,DEM,Harris \ Walz,54,3,84,141
+185,Wabash,005-Noble 05,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,3,0,0,3
+186,Wabash,005-Noble 05,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,4,0,1,5
+187,Wabash,005-Noble 05,President and Vice-President of the U.S.,,,Write-In,1,0,0,1
+188,Wabash,005-Noble 05,United States Senator,,REP,Jim Banks,162,10,181,353
+189,Wabash,005-Noble 05,United States Senator,,DEM,Valerie McCray,48,5,80,133
+190,Wabash,005-Noble 05,United States Senator,,LIB,Andrew Horning,10,0,3,13
+191,Wabash,005-Noble 05,United States Senator,,,Write-In,0,0,0,0
+192,Wabash,005-Noble 05,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,139,11,176,326
+193,Wabash,005-Noble 05,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,62,4,79,145
+194,Wabash,005-Noble 05,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,18,0,10,28
+195,Wabash,005-Noble 05,Governor And Lieutenant Governor,,,Write-In,1,0,0,1
+196,Wabash,005-Noble 05,Attorney General,,REP,Todd Rokita,159,10,182,351
+197,Wabash,005-Noble 05,Attorney General,,DEM,Destiny Wells,62,4,84,150
+198,Wabash,005-Noble 05,United States Representative,2,REP,Rudy Yakym,157,10,171,338
+199,Wabash,005-Noble 05,United States Representative,2,DEM,Lori A. Camp,56,4,78,138
+200,Wabash,005-Noble 05,United States Representative,2,LIB,William E. Henry,11,0,11,22
+201,Wabash,005-Noble 05,United States Representative,2,,Write-In,0,0,0,0
+202,Wabash,005-Noble 05,State Representative,50,REP,Lorissa Sweet,169,12,185,366
+203,Wabash,005-Noble 05,State Representative,50,DEM,Joe Swisher,57,3,83,143
+204,Wabash,005-Noble 05,County Auditor,,REP,Shelly Baucco,185,14,221,420
+205,Wabash,005-Noble 05,County Treasurer,,REP,Brenda Hegel,181,12,213,406
+206,Wabash,005-Noble 05,County Coroner,,REP,Ken Brown,180,12,212,404
+207,Wabash,005-Noble 05,County Surveyor,,REP,Cheri Slee,181,12,213,406
+208,Wabash,005-Noble 05,County Commissioner District 1,,REP,Cheryl Ross,182,13,209,404
+209,Wabash,005-Noble 05,County Commissioner District 3,,REP,Tyler J. Niccum,191,10,219,420
+210,Wabash,005-Noble 05,County Council Member At Large,,REP,Matt Dillon,143,10,169,322
+211,Wabash,005-Noble 05,County Council Member At Large,,REP,Nicholas Jay Kopkey,88,6,110,204
+212,Wabash,005-Noble 05,County Council Member At Large,,REP,David W. Terflinger,83,7,109,199
+213,Wabash,005-Noble 05,County Council Member At Large,,DEM,John T. Hargenrader,38,3,56,97
+214,Wabash,005-Noble 05,County Council Member At Large,,DEM,Tammy Ingalls,56,4,72,132
+215,Wabash,005-Noble 05,MSD of Wabash SB Northeast District,,,Christian Rosen,17,4,28,49
+216,Wabash,005-Noble 05,MSD of Wabash SB Northwest District,,,Scott A. Haupert,19,2,31,52
+217,Wabash,005-Noble 05,MSD of Wabash SB South District,,,Kevin R. Bowman,17,2,22,41
+218,Wabash,005-Noble 05,IN Supreme Court-Rush,,,Yes,143,11,163,317
+219,Wabash,005-Noble 05,IN Supreme Court-Rush,,,No,43,1,47,91
+220,Wabash,005-Noble 05,IN Supreme Court-Massa,,,Yes,140,10,157,307
+221,Wabash,005-Noble 05,IN Supreme Court-Massa,,,No,45,2,50,97
+222,Wabash,005-Noble 05,IN Supreme Court-Molter,,,Yes,140,10,160,310
+223,Wabash,005-Noble 05,IN Supreme Court-Molter,,,No,44,2,47,93
+224,Wabash,005-Noble 05,Court of Appeals Dist 4-Pyle III,,,Yes,147,10,153,310
+225,Wabash,005-Noble 05,Court of Appeals Dist 4-Pyle III,,,No,41,2,48,91
+226,Wabash,006-Noble 06,Ballots Cast,,,,279,99,456,834
+227,Wabash,006-Noble 06,Registered Voters,,,,,,,1228
+228,Wabash,006-Noble 06,Public Question-Const Amendment,,,Yes,131,33,201,365
+229,Wabash,006-Noble 06,Public Question-Const Amendment,,,No,123,23,179,325
+230,Wabash,006-Noble 06,President and Vice-President of the U.S.,,REP,Trump \ Vance,200,63,310,573
+231,Wabash,006-Noble 06,President and Vice-President of the U.S.,,DEM,Harris \ Walz,70,34,132,236
+232,Wabash,006-Noble 06,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,3,0,2,5
+233,Wabash,006-Noble 06,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,3,1,5,9
+234,Wabash,006-Noble 06,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
+235,Wabash,006-Noble 06,United States Senator,,REP,Jim Banks,191,65,300,556
+236,Wabash,006-Noble 06,United States Senator,,DEM,Valerie McCray,61,26,115,202
+237,Wabash,006-Noble 06,United States Senator,,LIB,Andrew Horning,10,0,10,20
+238,Wabash,006-Noble 06,United States Senator,,,Write-In,0,0,0,0
+239,Wabash,006-Noble 06,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,160,64,280,504
+240,Wabash,006-Noble 06,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,73,27,130,230
+241,Wabash,006-Noble 06,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,33,0,22,55
+242,Wabash,006-Noble 06,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+243,Wabash,006-Noble 06,Attorney General,,REP,Todd Rokita,197,62,297,556
+244,Wabash,006-Noble 06,Attorney General,,DEM,Destiny Wells,67,29,130,226
+245,Wabash,006-Noble 06,United States Representative,2,REP,Rudy Yakym,183,59,294,536
+246,Wabash,006-Noble 06,United States Representative,2,DEM,Lori A. Camp,68,31,120,219
+247,Wabash,006-Noble 06,United States Representative,2,LIB,William E. Henry,10,0,17,27
+248,Wabash,006-Noble 06,United States Representative,2,,Write-In,0,0,0,0
+249,Wabash,006-Noble 06,State Representative,50,REP,Lorissa Sweet,200,65,320,585
+250,Wabash,006-Noble 06,State Representative,50,DEM,Joe Swisher,65,27,116,208
+251,Wabash,006-Noble 06,County Auditor,,REP,Shelly Baucco,219,71,344,634
+252,Wabash,006-Noble 06,County Treasurer,,REP,Brenda Hegel,215,70,340,625
+253,Wabash,006-Noble 06,County Coroner,,REP,Ken Brown,216,70,345,631
+254,Wabash,006-Noble 06,County Surveyor,,REP,Cheri Slee,212,71,335,618
+255,Wabash,006-Noble 06,County Commissioner District 1,,REP,Cheryl Ross,215,69,332,616
+256,Wabash,006-Noble 06,County Commissioner District 3,,REP,Tyler J. Niccum,216,69,340,625
+257,Wabash,006-Noble 06,County Council Member At Large,,REP,Matt Dillon,177,47,252,476
+258,Wabash,006-Noble 06,County Council Member At Large,,REP,Nicholas Jay Kopkey,106,29,141,276
+259,Wabash,006-Noble 06,County Council Member At Large,,REP,David W. Terflinger,102,32,151,285
+260,Wabash,006-Noble 06,County Council Member At Large,,DEM,John T. Hargenrader,35,26,83,144
+261,Wabash,006-Noble 06,County Council Member At Large,,DEM,Tammy Ingalls,64,27,112,203
+262,Wabash,006-Noble 06,MSD of Wabash SB Northeast District,,,Christian Rosen,6,18,16,40
+263,Wabash,006-Noble 06,MSD of Wabash SB Northwest District,,,Scott A. Haupert,6,16,17,39
+264,Wabash,006-Noble 06,MSD of Wabash SB South District,,,Kevin R. Bowman,7,15,16,38
+265,Wabash,006-Noble 06,IN Supreme Court-Rush,,,Yes,178,43,240,461
+266,Wabash,006-Noble 06,IN Supreme Court-Rush,,,No,47,11,93,151
+267,Wabash,006-Noble 06,IN Supreme Court-Massa,,,Yes,163,34,221,418
+268,Wabash,006-Noble 06,IN Supreme Court-Massa,,,No,58,15,107,180
+269,Wabash,006-Noble 06,IN Supreme Court-Molter,,,Yes,167,32,238,437
+270,Wabash,006-Noble 06,IN Supreme Court-Molter,,,No,57,17,90,164
+271,Wabash,006-Noble 06,Court of Appeals Dist 4-Pyle III,,,Yes,171,37,232,440
+272,Wabash,006-Noble 06,Court of Appeals Dist 4-Pyle III,,,No,53,15,96,164
+273,Wabash,007-Noble 07,Ballots Cast,,,,291,37,318,646
+274,Wabash,007-Noble 07,Registered Voters,,,,,,,961
+275,Wabash,007-Noble 07,Public Question-Const Amendment,,,Yes,153,8,134,295
+276,Wabash,007-Noble 07,Public Question-Const Amendment,,,No,113,17,141,271
+277,Wabash,007-Noble 07,President and Vice-President of the U.S.,,REP,Trump \ Vance,215,16,238,469
+278,Wabash,007-Noble 07,President and Vice-President of the U.S.,,DEM,Harris \ Walz,70,20,78,168
+279,Wabash,007-Noble 07,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,1,0,0,1
+280,Wabash,007-Noble 07,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,3,0,0,3
+281,Wabash,007-Noble 07,President and Vice-President of the U.S.,,,Write-In,0,0,1,1
+282,Wabash,007-Noble 07,United States Senator,,REP,Jim Banks,194,16,233,443
+283,Wabash,007-Noble 07,United States Senator,,DEM,Valerie McCray,60,20,70,150
+284,Wabash,007-Noble 07,United States Senator,,LIB,Andrew Horning,12,0,5,17
+285,Wabash,007-Noble 07,United States Senator,,,Write-In,0,0,0,0
+286,Wabash,007-Noble 07,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,173,16,220,409
+287,Wabash,007-Noble 07,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,69,21,76,166
+288,Wabash,007-Noble 07,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,25,0,12,37
+289,Wabash,007-Noble 07,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+290,Wabash,007-Noble 07,Attorney General,,REP,Todd Rokita,204,16,228,448
+291,Wabash,007-Noble 07,Attorney General,,DEM,Destiny Wells,69,21,79,169
+292,Wabash,007-Noble 07,United States Representative,2,REP,Rudy Yakym,192,16,224,432
+293,Wabash,007-Noble 07,United States Representative,2,DEM,Lori A. Camp,64,18,73,155
+294,Wabash,007-Noble 07,United States Representative,2,LIB,William E. Henry,14,2,11,27
+295,Wabash,007-Noble 07,United States Representative,2,,Write-In,0,0,0,0
+296,Wabash,007-Noble 07,State Representative,50,REP,Lorissa Sweet,212,20,238,470
+297,Wabash,007-Noble 07,State Representative,50,DEM,Joe Swisher,62,16,70,148
+298,Wabash,007-Noble 07,County Auditor,,REP,Shelly Baucco,235,20,253,508
+299,Wabash,007-Noble 07,County Treasurer,,REP,Brenda Hegel,226,20,246,492
+300,Wabash,007-Noble 07,County Coroner,,REP,Ken Brown,230,20,249,499
+301,Wabash,007-Noble 07,County Surveyor,,REP,Cheri Slee,225,20,245,490
+302,Wabash,007-Noble 07,County Commissioner District 1,,REP,Cheryl Ross,223,20,247,490
+303,Wabash,007-Noble 07,County Commissioner District 3,,REP,Tyler J. Niccum,238,20,262,520
+304,Wabash,007-Noble 07,County Council Member At Large,,REP,Matt Dillon,199,16,192,407
+305,Wabash,007-Noble 07,County Council Member At Large,,REP,Nicholas Jay Kopkey,114,9,118,241
+306,Wabash,007-Noble 07,County Council Member At Large,,REP,David W. Terflinger,112,13,121,246
+307,Wabash,007-Noble 07,County Council Member At Large,,DEM,John T. Hargenrader,42,17,54,113
+308,Wabash,007-Noble 07,County Council Member At Large,,DEM,Tammy Ingalls,71,18,70,159
+309,Wabash,007-Noble 07,MSD of Wabash SB Northeast District,,,Christian Rosen,55,6,68,129
+310,Wabash,007-Noble 07,MSD of Wabash SB Northwest District,,,Scott A. Haupert,58,7,65,130
+311,Wabash,007-Noble 07,MSD of Wabash SB South District,,,Kevin R. Bowman,51,5,63,119
+312,Wabash,007-Noble 07,IN Supreme Court-Rush,,,Yes,183,20,176,379
+313,Wabash,007-Noble 07,IN Supreme Court-Rush,,,No,46,3,65,114
+314,Wabash,007-Noble 07,IN Supreme Court-Massa,,,Yes,180,17,168,365
+315,Wabash,007-Noble 07,IN Supreme Court-Massa,,,No,47,5,70,122
+316,Wabash,007-Noble 07,IN Supreme Court-Molter,,,Yes,179,18,162,359
+317,Wabash,007-Noble 07,IN Supreme Court-Molter,,,No,47,4,71,122
+318,Wabash,007-Noble 07,Court of Appeals Dist 4-Pyle III,,,Yes,181,18,165,364
+319,Wabash,007-Noble 07,Court of Appeals Dist 4-Pyle III,,,No,49,4,66,119
+320,Wabash,008-Noble 08,Ballots Cast,,,,200,37,363,600
+321,Wabash,008-Noble 08,Registered Voters,,,,,,,869
+322,Wabash,008-Noble 08,Public Question-Const Amendment,,,Yes,107,16,160,283
+323,Wabash,008-Noble 08,Public Question-Const Amendment,,,No,69,15,159,243
+324,Wabash,008-Noble 08,President and Vice-President of the U.S.,,REP,Trump \ Vance,134,15,280,429
+325,Wabash,008-Noble 08,President and Vice-President of the U.S.,,DEM,Harris \ Walz,57,20,77,154
+326,Wabash,008-Noble 08,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,1,0,1,2
+327,Wabash,008-Noble 08,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,3,1,2,6
+328,Wabash,008-Noble 08,President and Vice-President of the U.S.,,,Write-In,1,0,1,2
+329,Wabash,008-Noble 08,United States Senator,,REP,Jim Banks,138,19,281,438
+330,Wabash,008-Noble 08,United States Senator,,DEM,Valerie McCray,43,17,61,121
+331,Wabash,008-Noble 08,United States Senator,,LIB,Andrew Horning,7,0,3,10
+332,Wabash,008-Noble 08,United States Senator,,,Write-In,0,0,0,0
+333,Wabash,008-Noble 08,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,123,17,259,399
+334,Wabash,008-Noble 08,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,54,18,76,148
+335,Wabash,008-Noble 08,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,15,1,12,28
+336,Wabash,008-Noble 08,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+337,Wabash,008-Noble 08,Attorney General,,REP,Todd Rokita,141,18,276,435
+338,Wabash,008-Noble 08,Attorney General,,DEM,Destiny Wells,50,18,73,141
+339,Wabash,008-Noble 08,United States Representative,2,REP,Rudy Yakym,136,20,268,424
+340,Wabash,008-Noble 08,United States Representative,2,DEM,Lori A. Camp,49,16,67,132
+341,Wabash,008-Noble 08,United States Representative,2,LIB,William E. Henry,6,0,12,18
+342,Wabash,008-Noble 08,United States Representative,2,,Write-In,0,0,0,0
+343,Wabash,008-Noble 08,State Representative,50,REP,Lorissa Sweet,150,19,284,453
+344,Wabash,008-Noble 08,State Representative,50,DEM,Joe Swisher,46,17,68,131
+345,Wabash,008-Noble 08,County Auditor,,REP,Shelly Baucco,158,21,308,487
+346,Wabash,008-Noble 08,County Treasurer,,REP,Brenda Hegel,160,22,302,484
+347,Wabash,008-Noble 08,County Coroner,,REP,Ken Brown,159,21,299,479
+348,Wabash,008-Noble 08,County Surveyor,,REP,Cheri Slee,157,21,306,484
+349,Wabash,008-Noble 08,County Commissioner District 1,,REP,Cheryl Ross,157,21,292,470
+350,Wabash,008-Noble 08,County Commissioner District 3,,REP,Tyler J. Niccum,165,22,309,496
+351,Wabash,008-Noble 08,County Council Member At Large,,REP,Matt Dillon,128,21,231,380
+352,Wabash,008-Noble 08,County Council Member At Large,,REP,Nicholas Jay Kopkey,71,13,156,240
+353,Wabash,008-Noble 08,County Council Member At Large,,REP,David W. Terflinger,68,12,153,233
+354,Wabash,008-Noble 08,County Council Member At Large,,DEM,John T. Hargenrader,28,15,54,97
+355,Wabash,008-Noble 08,County Council Member At Large,,DEM,Tammy Ingalls,37,14,63,114
+356,Wabash,008-Noble 08,MSD of Wabash SB Northeast District,,,Christian Rosen,58,15,136,209
+357,Wabash,008-Noble 08,MSD of Wabash SB Northwest District,,,Scott A. Haupert,61,16,137,214
+358,Wabash,008-Noble 08,MSD of Wabash SB South District,,,Kevin R. Bowman,42,13,100,155
+359,Wabash,008-Noble 08,IN Supreme Court-Rush,,,Yes,124,20,211,355
+360,Wabash,008-Noble 08,IN Supreme Court-Rush,,,No,30,6,54,90
+361,Wabash,008-Noble 08,IN Supreme Court-Massa,,,Yes,114,20,200,334
+362,Wabash,008-Noble 08,IN Supreme Court-Massa,,,No,35,7,55,97
+363,Wabash,008-Noble 08,IN Supreme Court-Molter,,,Yes,116,19,212,347
+364,Wabash,008-Noble 08,IN Supreme Court-Molter,,,No,36,7,51,94
+365,Wabash,008-Noble 08,Court of Appeals Dist 4-Pyle III,,,Yes,108,21,208,337
+366,Wabash,008-Noble 08,Court of Appeals Dist 4-Pyle III,,,No,41,6,53,100
+367,Wabash,009-Noble 09,Ballots Cast,,,,157,25,337,519
+368,Wabash,009-Noble 09,Registered Voters,,,,,,,681
+369,Wabash,009-Noble 09,Public Question-Const Amendment,,,Yes,69,9,157,235
+370,Wabash,009-Noble 09,Public Question-Const Amendment,,,No,73,12,136,221
+371,Wabash,009-Noble 09,President and Vice-President of the U.S.,,REP,Trump \ Vance,128,13,282,423
+372,Wabash,009-Noble 09,President and Vice-President of the U.S.,,DEM,Harris \ Walz,21,11,50,82
+373,Wabash,009-Noble 09,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,1,0,0,1
+374,Wabash,009-Noble 09,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,1,0,1,2
+375,Wabash,009-Noble 09,President and Vice-President of the U.S.,,,Write-In,0,1,2,3
+376,Wabash,009-Noble 09,United States Senator,,REP,Jim Banks,123,12,274,409
+377,Wabash,009-Noble 09,United States Senator,,DEM,Valerie McCray,18,10,43,71
+378,Wabash,009-Noble 09,United States Senator,,LIB,Andrew Horning,7,2,4,13
+379,Wabash,009-Noble 09,United States Senator,,,Write-In,0,0,0,0
+380,Wabash,009-Noble 09,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,109,14,253,376
+381,Wabash,009-Noble 09,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,26,10,50,86
+382,Wabash,009-Noble 09,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,14,1,18,33
+383,Wabash,009-Noble 09,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+384,Wabash,009-Noble 09,Attorney General,,REP,Todd Rokita,128,14,276,418
+385,Wabash,009-Noble 09,Attorney General,,DEM,Destiny Wells,22,11,51,84
+386,Wabash,009-Noble 09,United States Representative,2,REP,Rudy Yakym,119,13,268,400
+387,Wabash,009-Noble 09,United States Representative,2,DEM,Lori A. Camp,21,10,49,80
+388,Wabash,009-Noble 09,United States Representative,2,LIB,William E. Henry,10,1,6,17
+389,Wabash,009-Noble 09,United States Representative,2,,Write-In,0,0,0,0
+390,Wabash,009-Noble 09,State Representative,50,REP,Lorissa Sweet,133,14,275,422
+391,Wabash,009-Noble 09,State Representative,50,DEM,Joe Swisher,19,10,51,80
+392,Wabash,009-Noble 09,County Auditor,,REP,Shelly Baucco,139,22,286,447
+393,Wabash,009-Noble 09,County Treasurer,,REP,Brenda Hegel,139,21,284,444
+394,Wabash,009-Noble 09,County Coroner,,REP,Ken Brown,136,20,280,436
+395,Wabash,009-Noble 09,County Surveyor,,REP,Cheri Slee,140,22,289,451
+396,Wabash,009-Noble 09,County Commissioner District 1,,REP,Cheryl Ross,139,21,284,444
+397,Wabash,009-Noble 09,County Commissioner District 3,,REP,Tyler J. Niccum,139,19,287,445
+398,Wabash,009-Noble 09,County Council Member At Large,,REP,Matt Dillon,105,16,222,343
+399,Wabash,009-Noble 09,County Council Member At Large,,REP,Nicholas Jay Kopkey,76,7,163,246
+400,Wabash,009-Noble 09,County Council Member At Large,,REP,David W. Terflinger,65,7,154,226
+401,Wabash,009-Noble 09,County Council Member At Large,,DEM,John T. Hargenrader,18,8,37,63
+402,Wabash,009-Noble 09,County Council Member At Large,,DEM,Tammy Ingalls,24,11,43,78
+403,Wabash,009-Noble 09,MSD of Wabash SB Northeast District,,,Christian Rosen,108,17,239,364
+404,Wabash,009-Noble 09,MSD of Wabash SB Northwest District,,,Scott A. Haupert,105,16,217,338
+405,Wabash,009-Noble 09,MSD of Wabash SB South District,,,Kevin R. Bowman,89,15,181,285
+406,Wabash,009-Noble 09,IN Supreme Court-Rush,,,Yes,101,14,197,312
+407,Wabash,009-Noble 09,IN Supreme Court-Rush,,,No,26,8,59,93
+408,Wabash,009-Noble 09,IN Supreme Court-Massa,,,Yes,98,14,195,307
+409,Wabash,009-Noble 09,IN Supreme Court-Massa,,,No,27,6,56,89
+410,Wabash,009-Noble 09,IN Supreme Court-Molter,,,Yes,98,14,191,303
+411,Wabash,009-Noble 09,IN Supreme Court-Molter,,,No,26,6,60,92
+412,Wabash,009-Noble 09,Court of Appeals Dist 4-Pyle III,,,Yes,100,13,192,305
+413,Wabash,009-Noble 09,Court of Appeals Dist 4-Pyle III,,,No,25,8,57,90
+414,Wabash,010-Noble 10,Ballots Cast,,,,236,30,473,739
+415,Wabash,010-Noble 10,Registered Voters,,,,,,,981
+416,Wabash,010-Noble 10,Public Question-Const Amendment,,,Yes,116,8,216,340
+417,Wabash,010-Noble 10,Public Question-Const Amendment,,,No,94,13,191,298
+418,Wabash,010-Noble 10,President and Vice-President of the U.S.,,REP,Trump \ Vance,187,16,390,593
+419,Wabash,010-Noble 10,President and Vice-President of the U.S.,,DEM,Harris \ Walz,45,14,71,130
+420,Wabash,010-Noble 10,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,1,0,0,1
+421,Wabash,010-Noble 10,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,2,0,3,5
+422,Wabash,010-Noble 10,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
+423,Wabash,010-Noble 10,United States Senator,,REP,Jim Banks,172,17,384,573
+424,Wabash,010-Noble 10,United States Senator,,DEM,Valerie McCray,40,13,62,115
+425,Wabash,010-Noble 10,United States Senator,,LIB,Andrew Horning,13,0,7,20
+426,Wabash,010-Noble 10,United States Senator,,,Write-In,0,0,0,0
+427,Wabash,010-Noble 10,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,146,16,361,523
+428,Wabash,010-Noble 10,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,52,14,73,139
+429,Wabash,010-Noble 10,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,26,0,24,50
+430,Wabash,010-Noble 10,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+431,Wabash,010-Noble 10,Attorney General,,REP,Todd Rokita,178,16,387,581
+432,Wabash,010-Noble 10,Attorney General,,DEM,Destiny Wells,52,14,72,138
+433,Wabash,010-Noble 10,United States Representative,2,REP,Rudy Yakym,171,16,370,557
+434,Wabash,010-Noble 10,United States Representative,2,DEM,Lori A. Camp,42,12,69,123
+435,Wabash,010-Noble 10,United States Representative,2,LIB,William E. Henry,12,2,14,28
+436,Wabash,010-Noble 10,United States Representative,2,,Write-In,0,0,0,0
+437,Wabash,010-Noble 10,State Representative,50,REP,Lorissa Sweet,192,15,398,605
+438,Wabash,010-Noble 10,State Representative,50,DEM,Joe Swisher,38,15,63,116
+439,Wabash,010-Noble 10,County Auditor,,REP,Shelly Baucco,200,22,399,621
+440,Wabash,010-Noble 10,County Treasurer,,REP,Brenda Hegel,193,22,400,615
+441,Wabash,010-Noble 10,County Coroner,,REP,Ken Brown,197,23,401,621
+442,Wabash,010-Noble 10,County Surveyor,,REP,Cheri Slee,193,21,396,610
+443,Wabash,010-Noble 10,County Commissioner District 1,,REP,Cheryl Ross,194,19,393,606
+444,Wabash,010-Noble 10,County Commissioner District 3,,REP,Tyler J. Niccum,201,21,404,626
+445,Wabash,010-Noble 10,County Council Member At Large,,REP,Matt Dillon,160,13,326,499
+446,Wabash,010-Noble 10,County Council Member At Large,,REP,Nicholas Jay Kopkey,89,11,217,317
+447,Wabash,010-Noble 10,County Council Member At Large,,REP,David W. Terflinger,83,11,203,297
+448,Wabash,010-Noble 10,County Council Member At Large,,DEM,John T. Hargenrader,24,6,49,79
+449,Wabash,010-Noble 10,County Council Member At Large,,DEM,Tammy Ingalls,41,11,67,119
+450,Wabash,010-Noble 10,MSD of Wabash SB Northeast District,,,Christian Rosen,155,13,274,442
+451,Wabash,010-Noble 10,MSD of Wabash SB Northwest District,,,Scott A. Haupert,141,13,268,422
+452,Wabash,010-Noble 10,MSD of Wabash SB South District,,,Kevin R. Bowman,150,17,243,410
+453,Wabash,010-Noble 10,IN Supreme Court-Rush,,,Yes,146,15,264,425
+454,Wabash,010-Noble 10,IN Supreme Court-Rush,,,No,36,3,84,123
+455,Wabash,010-Noble 10,IN Supreme Court-Massa,,,Yes,145,13,255,413
+456,Wabash,010-Noble 10,IN Supreme Court-Massa,,,No,34,4,81,119
+457,Wabash,010-Noble 10,IN Supreme Court-Molter,,,Yes,144,11,258,413
+458,Wabash,010-Noble 10,IN Supreme Court-Molter,,,No,38,6,83,127
+459,Wabash,010-Noble 10,Court of Appeals Dist 4-Pyle III,,,Yes,144,12,258,414
+460,Wabash,010-Noble 10,Court of Appeals Dist 4-Pyle III,,,No,37,5,79,121
+461,Wabash,011-Noble 11,Ballots Cast,,,,166,11,409,586
+462,Wabash,011-Noble 11,Registered Voters,,,,,,,847
+463,Wabash,011-Noble 11,Public Question-Const Amendment,,,Yes,73,3,190,266
+464,Wabash,011-Noble 11,Public Question-Const Amendment,,,No,77,6,163,246
+465,Wabash,011-Noble 11,President and Vice-President of the U.S.,,REP,Trump \ Vance,137,8,327,472
+466,Wabash,011-Noble 11,President and Vice-President of the U.S.,,DEM,Harris \ Walz,23,2,73,98
+467,Wabash,011-Noble 11,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,2,1,2,5
+468,Wabash,011-Noble 11,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,2,0,2,4
+469,Wabash,011-Noble 11,President and Vice-President of the U.S.,,,Write-In,0,0,1,1
+470,Wabash,011-Noble 11,United States Senator,,REP,Jim Banks,134,9,321,464
+471,Wabash,011-Noble 11,United States Senator,,DEM,Valerie McCray,17,1,59,77
+472,Wabash,011-Noble 11,United States Senator,,LIB,Andrew Horning,5,1,8,14
+473,Wabash,011-Noble 11,United States Senator,,,Write-In,0,0,0,0
+474,Wabash,011-Noble 11,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,114,7,299,420
+475,Wabash,011-Noble 11,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,27,3,72,102
+476,Wabash,011-Noble 11,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,13,1,20,34
+477,Wabash,011-Noble 11,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+478,Wabash,011-Noble 11,Attorney General,,REP,Todd Rokita,134,9,326,469
+479,Wabash,011-Noble 11,Attorney General,,DEM,Destiny Wells,24,2,73,99
+480,Wabash,011-Noble 11,United States Representative,2,REP,Rudy Yakym,127,9,322,458
+481,Wabash,011-Noble 11,United States Representative,2,DEM,Lori A. Camp,23,1,63,87
+482,Wabash,011-Noble 11,United States Representative,2,LIB,William E. Henry,5,1,12,18
+483,Wabash,011-Noble 11,United States Representative,2,,Write-In,0,0,0,0
+484,Wabash,011-Noble 11,State Representative,50,REP,Lorissa Sweet,137,9,331,477
+485,Wabash,011-Noble 11,State Representative,50,DEM,Joe Swisher,19,2,69,90
+486,Wabash,011-Noble 11,County Auditor,,REP,Shelly Baucco,142,10,353,505
+487,Wabash,011-Noble 11,County Treasurer,,REP,Brenda Hegel,140,9,357,506
+488,Wabash,011-Noble 11,County Coroner,,REP,Ken Brown,142,9,351,502
+489,Wabash,011-Noble 11,County Surveyor,,REP,Cheri Slee,138,9,359,506
+490,Wabash,011-Noble 11,County Commissioner District 1,,REP,Cheryl Ross,141,9,346,496
+491,Wabash,011-Noble 11,County Commissioner District 3,,REP,Tyler J. Niccum,140,9,354,503
+492,Wabash,011-Noble 11,County Council Member At Large,,REP,Matt Dillon,115,6,302,423
+493,Wabash,011-Noble 11,County Council Member At Large,,REP,Nicholas Jay Kopkey,66,5,194,265
+494,Wabash,011-Noble 11,County Council Member At Large,,REP,David W. Terflinger,70,4,183,257
+495,Wabash,011-Noble 11,County Council Member At Large,,DEM,John T. Hargenrader,18,1,54,73
+496,Wabash,011-Noble 11,County Council Member At Large,,DEM,Tammy Ingalls,24,2,66,92
+497,Wabash,011-Noble 11,MSD of Wabash SB Northeast District,,,Christian Rosen,104,5,236,345
+498,Wabash,011-Noble 11,MSD of Wabash SB Northwest District,,,Scott A. Haupert,99,5,234,338
+499,Wabash,011-Noble 11,MSD of Wabash SB South District,,,Kevin R. Bowman,93,5,211,309
+500,Wabash,011-Noble 11,IN Supreme Court-Rush,,,Yes,107,5,215,327
+501,Wabash,011-Noble 11,IN Supreme Court-Rush,,,No,28,4,78,110
+502,Wabash,011-Noble 11,IN Supreme Court-Massa,,,Yes,108,6,205,319
+503,Wabash,011-Noble 11,IN Supreme Court-Massa,,,No,24,3,82,109
+504,Wabash,011-Noble 11,IN Supreme Court-Molter,,,Yes,113,5,209,327
+505,Wabash,011-Noble 11,IN Supreme Court-Molter,,,No,24,4,75,103
+506,Wabash,011-Noble 11,Court of Appeals Dist 4-Pyle III,,,Yes,112,6,213,331
+507,Wabash,011-Noble 11,Court of Appeals Dist 4-Pyle III,,,No,24,3,77,104
+508,Wabash,012-Chester 01,Ballots Cast,,,,211,26,238,475
+509,Wabash,012-Chester 01,Registered Voters,,,,,,,626
+510,Wabash,012-Chester 01,Public Question-Const Amendment,,,Yes,112,11,106,229
+511,Wabash,012-Chester 01,Public Question-Const Amendment,,,No,84,11,102,197
+512,Wabash,012-Chester 01,President and Vice-President of the U.S.,,REP,Trump \ Vance,172,18,161,351
+513,Wabash,012-Chester 01,President and Vice-President of the U.S.,,DEM,Harris \ Walz,34,8,67,109
+514,Wabash,012-Chester 01,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,2,0,2,4
+515,Wabash,012-Chester 01,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,2,0,3,5
+516,Wabash,012-Chester 01,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
+517,Wabash,012-Chester 01,United States Senator,,REP,Jim Banks,168,18,157,343
+518,Wabash,012-Chester 01,United States Senator,,DEM,Valerie McCray,33,8,60,101
+519,Wabash,012-Chester 01,United States Senator,,LIB,Andrew Horning,1,0,8,9
+520,Wabash,012-Chester 01,United States Senator,,,Write-In,0,0,0,0
+521,Wabash,012-Chester 01,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,156,17,141,314
+522,Wabash,012-Chester 01,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,39,9,68,116
+523,Wabash,012-Chester 01,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,9,0,18,27
+524,Wabash,012-Chester 01,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+525,Wabash,012-Chester 01,Attorney General,,REP,Todd Rokita,166,18,156,340
+526,Wabash,012-Chester 01,Attorney General,,DEM,Destiny Wells,37,8,71,116
+527,Wabash,012-Chester 01,United States Representative,2,REP,Rudy Yakym,156,18,155,329
+528,Wabash,012-Chester 01,United States Representative,2,DEM,Lori A. Camp,40,7,62,109
+529,Wabash,012-Chester 01,United States Representative,2,LIB,William E. Henry,5,1,9,15
+530,Wabash,012-Chester 01,United States Representative,2,,Write-In,0,0,0,0
+531,Wabash,012-Chester 01,State Representative,50,REP,Lorissa Sweet,168,18,170,356
+532,Wabash,012-Chester 01,State Representative,50,DEM,Joe Swisher,36,8,57,101
+533,Wabash,012-Chester 01,County Auditor,,REP,Shelly Baucco,179,20,179,378
+534,Wabash,012-Chester 01,County Treasurer,,REP,Brenda Hegel,178,20,174,372
+535,Wabash,012-Chester 01,County Coroner,,REP,Ken Brown,179,20,173,372
+536,Wabash,012-Chester 01,County Surveyor,,REP,Cheri Slee,180,20,177,377
+537,Wabash,012-Chester 01,County Commissioner District 1,,REP,Cheryl Ross,177,18,174,369
+538,Wabash,012-Chester 01,County Commissioner District 3,,REP,Tyler J. Niccum,177,18,178,373
+539,Wabash,012-Chester 01,County Council Member At Large,,REP,Matt Dillon,129,13,136,278
+540,Wabash,012-Chester 01,County Council Member At Large,,REP,Nicholas Jay Kopkey,135,11,124,270
+541,Wabash,012-Chester 01,County Council Member At Large,,REP,David W. Terflinger,108,13,95,216
+542,Wabash,012-Chester 01,County Council Member At Large,,DEM,John T. Hargenrader,32,3,44,79
+543,Wabash,012-Chester 01,County Council Member At Large,,DEM,Tammy Ingalls,40,6,56,102
+544,Wabash,012-Chester 01,Manchester School Board Chester Township,,,Fred L Orr,144,13,159,316
+545,Wabash,012-Chester 01,Manchester SB Pleasant Township,,,Brian Michael Ramer,94,14,87,195
+546,Wabash,012-Chester 01,Manchester SB Pleasant Township,,,Shad Roth,64,4,74,142
+547,Wabash,012-Chester 01,Manchester SB Town of North Manchester,,,Amanda Johnson,81,9,85,175
+548,Wabash,012-Chester 01,Manchester SB Town of North Manchester,,,Miriah Tobias,83,10,92,185
+549,Wabash,012-Chester 01,IN Supreme Court-Rush,,,Yes,133,16,129,278
+550,Wabash,012-Chester 01,IN Supreme Court-Rush,,,No,39,3,49,91
+551,Wabash,012-Chester 01,IN Supreme Court-Massa,,,Yes,137,14,120,271
+552,Wabash,012-Chester 01,IN Supreme Court-Massa,,,No,33,4,51,88
+553,Wabash,012-Chester 01,IN Supreme Court-Molter,,,Yes,134,12,121,267
+554,Wabash,012-Chester 01,IN Supreme Court-Molter,,,No,36,4,51,91
+555,Wabash,012-Chester 01,Court of Appeals Dist 4-Pyle III,,,Yes,139,15,125,279
+556,Wabash,012-Chester 01,Court of Appeals Dist 4-Pyle III,,,No,32,3,45,80
+557,Wabash,013-Chester 02,Ballots Cast,,,,165,22,194,381
+558,Wabash,013-Chester 02,Registered Voters,,,,,,,533
+559,Wabash,013-Chester 02,Public Question-Const Amendment,,,Yes,84,10,93,187
+560,Wabash,013-Chester 02,Public Question-Const Amendment,,,No,68,9,85,162
+561,Wabash,013-Chester 02,President and Vice-President of the U.S.,,REP,Trump \ Vance,139,14,137,290
+562,Wabash,013-Chester 02,President and Vice-President of the U.S.,,DEM,Harris \ Walz,21,8,52,81
+563,Wabash,013-Chester 02,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,2,0,4,6
+564,Wabash,013-Chester 02,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,0,0,1,1
+565,Wabash,013-Chester 02,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
+566,Wabash,013-Chester 02,United States Senator,,REP,Jim Banks,139,15,134,288
+567,Wabash,013-Chester 02,United States Senator,,DEM,Valerie McCray,19,7,45,71
+568,Wabash,013-Chester 02,United States Senator,,LIB,Andrew Horning,3,0,7,10
+569,Wabash,013-Chester 02,United States Senator,,,Write-In,0,0,0,0
+570,Wabash,013-Chester 02,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,124,15,128,267
+571,Wabash,013-Chester 02,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,19,7,50,76
+572,Wabash,013-Chester 02,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,19,0,9,28
+573,Wabash,013-Chester 02,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+574,Wabash,013-Chester 02,Attorney General,,REP,Todd Rokita,133,12,141,286
+575,Wabash,013-Chester 02,Attorney General,,DEM,Destiny Wells,25,10,46,81
+576,Wabash,013-Chester 02,United States Representative,2,REP,Rudy Yakym,128,13,131,272
+577,Wabash,013-Chester 02,United States Representative,2,DEM,Lori A. Camp,22,9,49,80
+578,Wabash,013-Chester 02,United States Representative,2,LIB,William E. Henry,7,0,6,13
+579,Wabash,013-Chester 02,United States Representative,2,,Write-In,0,0,0,0
+580,Wabash,013-Chester 02,State Representative,50,REP,Lorissa Sweet,137,15,143,295
+581,Wabash,013-Chester 02,State Representative,50,DEM,Joe Swisher,21,7,46,74
+582,Wabash,013-Chester 02,County Auditor,,REP,Shelly Baucco,144,17,158,319
+583,Wabash,013-Chester 02,County Treasurer,,REP,Brenda Hegel,142,15,158,315
+584,Wabash,013-Chester 02,County Coroner,,REP,Ken Brown,140,18,157,315
+585,Wabash,013-Chester 02,County Surveyor,,REP,Cheri Slee,138,17,158,313
+586,Wabash,013-Chester 02,County Commissioner District 1,,REP,Cheryl Ross,141,17,152,310
+587,Wabash,013-Chester 02,County Commissioner District 3,,REP,Tyler J. Niccum,140,15,161,316
+588,Wabash,013-Chester 02,County Council Member At Large,,REP,Matt Dillon,105,14,101,220
+589,Wabash,013-Chester 02,County Council Member At Large,,REP,Nicholas Jay Kopkey,105,14,105,224
+590,Wabash,013-Chester 02,County Council Member At Large,,REP,David W. Terflinger,78,15,82,175
+591,Wabash,013-Chester 02,County Council Member At Large,,DEM,John T. Hargenrader,17,3,32,52
+592,Wabash,013-Chester 02,County Council Member At Large,,DEM,Tammy Ingalls,18,6,43,67
+593,Wabash,013-Chester 02,Manchester School Board Chester Township,,,Fred L Orr,113,15,122,250
+594,Wabash,013-Chester 02,Manchester SB Pleasant Township,,,Brian Michael Ramer,65,9,80,154
+595,Wabash,013-Chester 02,Manchester SB Pleasant Township,,,Shad Roth,58,10,60,128
+596,Wabash,013-Chester 02,Manchester SB Town of North Manchester,,,Amanda Johnson,62,8,58,128
+597,Wabash,013-Chester 02,Manchester SB Town of North Manchester,,,Miriah Tobias,76,11,88,175
+598,Wabash,013-Chester 02,IN Supreme Court-Rush,,,Yes,98,11,117,226
+599,Wabash,013-Chester 02,IN Supreme Court-Rush,,,No,40,2,35,77
+600,Wabash,013-Chester 02,IN Supreme Court-Massa,,,Yes,103,9,116,228
+601,Wabash,013-Chester 02,IN Supreme Court-Massa,,,No,33,4,37,74
+602,Wabash,013-Chester 02,IN Supreme Court-Molter,,,Yes,101,10,114,225
+603,Wabash,013-Chester 02,IN Supreme Court-Molter,,,No,33,2,39,74
+604,Wabash,013-Chester 02,Court of Appeals Dist 4-Pyle III,,,Yes,102,9,115,226
+605,Wabash,013-Chester 02,Court of Appeals Dist 4-Pyle III,,,No,34,4,37,75
+606,Wabash,014-Chester 03,Ballots Cast,,,,332,29,251,612
+607,Wabash,014-Chester 03,Registered Voters,,,,,,,943
+608,Wabash,014-Chester 03,Public Question-Const Amendment,,,Yes,159,9,109,277
+609,Wabash,014-Chester 03,Public Question-Const Amendment,,,No,151,12,120,283
+610,Wabash,014-Chester 03,President and Vice-President of the U.S.,,REP,Trump \ Vance,219,9,158,386
+611,Wabash,014-Chester 03,President and Vice-President of the U.S.,,DEM,Harris \ Walz,96,20,87,203
+612,Wabash,014-Chester 03,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,6,0,1,7
+613,Wabash,014-Chester 03,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,8,0,4,12
+614,Wabash,014-Chester 03,President and Vice-President of the U.S.,,,Write-In,1,0,0,1
+615,Wabash,014-Chester 03,United States Senator,,REP,Jim Banks,210,10,153,373
+616,Wabash,014-Chester 03,United States Senator,,DEM,Valerie McCray,94,18,83,195
+617,Wabash,014-Chester 03,United States Senator,,LIB,Andrew Horning,14,0,7,21
+618,Wabash,014-Chester 03,United States Senator,,,Write-In,0,0,0,0
+619,Wabash,014-Chester 03,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,171,9,140,320
+620,Wabash,014-Chester 03,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,108,19,88,215
+621,Wabash,014-Chester 03,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,40,0,13,53
+622,Wabash,014-Chester 03,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+623,Wabash,014-Chester 03,Attorney General,,REP,Todd Rokita,211,11,151,373
+624,Wabash,014-Chester 03,Attorney General,,DEM,Destiny Wells,105,17,93,215
+625,Wabash,014-Chester 03,United States Representative,2,REP,Rudy Yakym,201,8,155,364
+626,Wabash,014-Chester 03,United States Representative,2,DEM,Lori A. Camp,100,19,83,202
+627,Wabash,014-Chester 03,United States Representative,2,LIB,William E. Henry,19,1,6,26
+628,Wabash,014-Chester 03,United States Representative,2,,Write-In,0,0,0,0
+629,Wabash,014-Chester 03,State Representative,50,REP,Lorissa Sweet,223,10,163,396
+630,Wabash,014-Chester 03,State Representative,50,DEM,Joe Swisher,95,18,83,196
+631,Wabash,014-Chester 03,County Auditor,,REP,Shelly Baucco,255,16,197,468
+632,Wabash,014-Chester 03,County Treasurer,,REP,Brenda Hegel,254,16,197,467
+633,Wabash,014-Chester 03,County Coroner,,REP,Ken Brown,255,17,196,468
+634,Wabash,014-Chester 03,County Surveyor,,REP,Cheri Slee,253,16,196,465
+635,Wabash,014-Chester 03,County Commissioner District 1,,REP,Cheryl Ross,253,15,195,463
+636,Wabash,014-Chester 03,County Commissioner District 3,,REP,Tyler J. Niccum,257,15,198,470
+637,Wabash,014-Chester 03,County Council Member At Large,,REP,Matt Dillon,171,13,120,304
+638,Wabash,014-Chester 03,County Council Member At Large,,REP,Nicholas Jay Kopkey,160,14,111,285
+639,Wabash,014-Chester 03,County Council Member At Large,,REP,David W. Terflinger,134,8,93,235
+640,Wabash,014-Chester 03,County Council Member At Large,,DEM,John T. Hargenrader,75,14,60,149
+641,Wabash,014-Chester 03,County Council Member At Large,,DEM,Tammy Ingalls,97,19,70,186
+642,Wabash,014-Chester 03,Manchester School Board Chester Township,,,Fred L Orr,229,18,151,398
+643,Wabash,014-Chester 03,Manchester SB Pleasant Township,,,Brian Michael Ramer,124,6,78,208
+644,Wabash,014-Chester 03,Manchester SB Pleasant Township,,,Shad Roth,133,11,93,237
+645,Wabash,014-Chester 03,Manchester SB Town of North Manchester,,,Amanda Johnson,120,10,85,215
+646,Wabash,014-Chester 03,Manchester SB Town of North Manchester,,,Miriah Tobias,151,13,111,275
+647,Wabash,014-Chester 03,IN Supreme Court-Rush,,,Yes,203,14,132,349
+648,Wabash,014-Chester 03,IN Supreme Court-Rush,,,No,70,5,67,142
+649,Wabash,014-Chester 03,IN Supreme Court-Massa,,,Yes,186,11,130,327
+650,Wabash,014-Chester 03,IN Supreme Court-Massa,,,No,83,8,65,156
+651,Wabash,014-Chester 03,IN Supreme Court-Molter,,,Yes,188,12,131,331
+652,Wabash,014-Chester 03,IN Supreme Court-Molter,,,No,79,7,67,153
+653,Wabash,014-Chester 03,Court of Appeals Dist 4-Pyle III,,,Yes,189,12,135,336
+654,Wabash,014-Chester 03,Court of Appeals Dist 4-Pyle III,,,No,82,7,63,152
+655,Wabash,015-Chester 04,Ballots Cast,,,,204,24,202,430
+656,Wabash,015-Chester 04,Registered Voters,,,,,,,676
+657,Wabash,015-Chester 04,Public Question-Const Amendment,,,Yes,105,4,91,200
+658,Wabash,015-Chester 04,Public Question-Const Amendment,,,No,89,15,90,194
+659,Wabash,015-Chester 04,President and Vice-President of the U.S.,,REP,Trump \ Vance,117,3,99,219
+660,Wabash,015-Chester 04,President and Vice-President of the U.S.,,DEM,Harris \ Walz,79,21,98,198
+661,Wabash,015-Chester 04,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,2,0,1,3
+662,Wabash,015-Chester 04,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,2,0,2,4
+663,Wabash,015-Chester 04,President and Vice-President of the U.S.,,,Write-In,2,0,0,2
+664,Wabash,015-Chester 04,United States Senator,,REP,Jim Banks,119,3,94,216
+665,Wabash,015-Chester 04,United States Senator,,DEM,Valerie McCray,69,20,93,182
+666,Wabash,015-Chester 04,United States Senator,,LIB,Andrew Horning,7,1,4,12
+667,Wabash,015-Chester 04,United States Senator,,,Write-In,0,0,0,0
+668,Wabash,015-Chester 04,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,102,3,88,193
+669,Wabash,015-Chester 04,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,82,21,94,197
+670,Wabash,015-Chester 04,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,15,0,14,29
+671,Wabash,015-Chester 04,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+672,Wabash,015-Chester 04,Attorney General,,REP,Todd Rokita,117,2,100,219
+673,Wabash,015-Chester 04,Attorney General,,DEM,Destiny Wells,83,21,94,198
+674,Wabash,015-Chester 04,United States Representative,2,REP,Rudy Yakym,113,2,96,211
+675,Wabash,015-Chester 04,United States Representative,2,DEM,Lori A. Camp,79,20,93,192
+676,Wabash,015-Chester 04,United States Representative,2,LIB,William E. Henry,8,1,8,17
+677,Wabash,015-Chester 04,United States Representative,2,,Write-In,0,0,0,0
+678,Wabash,015-Chester 04,State Representative,50,REP,Lorissa Sweet,120,2,105,227
+679,Wabash,015-Chester 04,State Representative,50,DEM,Joe Swisher,76,21,91,188
+680,Wabash,015-Chester 04,County Auditor,,REP,Shelly Baucco,154,5,122,281
+681,Wabash,015-Chester 04,County Treasurer,,REP,Brenda Hegel,152,6,119,277
+682,Wabash,015-Chester 04,County Coroner,,REP,Ken Brown,155,6,122,283
+683,Wabash,015-Chester 04,County Surveyor,,REP,Cheri Slee,155,6,123,284
+684,Wabash,015-Chester 04,County Commissioner District 1,,REP,Cheryl Ross,150,6,123,279
+685,Wabash,015-Chester 04,County Commissioner District 3,,REP,Tyler J. Niccum,152,6,124,282
+686,Wabash,015-Chester 04,County Council Member At Large,,REP,Matt Dillon,96,5,72,173
+687,Wabash,015-Chester 04,County Council Member At Large,,REP,Nicholas Jay Kopkey,101,5,85,191
+688,Wabash,015-Chester 04,County Council Member At Large,,REP,David W. Terflinger,74,4,67,145
+689,Wabash,015-Chester 04,County Council Member At Large,,DEM,John T. Hargenrader,50,16,69,135
+690,Wabash,015-Chester 04,County Council Member At Large,,DEM,Tammy Ingalls,72,18,81,171
+691,Wabash,015-Chester 04,Manchester School Board Chester Township,,,Fred L Orr,157,10,124,291
+692,Wabash,015-Chester 04,Manchester SB Pleasant Township,,,Brian Michael Ramer,101,6,68,175
+693,Wabash,015-Chester 04,Manchester SB Pleasant Township,,,Shad Roth,62,6,67,135
+694,Wabash,015-Chester 04,Manchester SB Town of North Manchester,,,Amanda Johnson,81,5,81,167
+695,Wabash,015-Chester 04,Manchester SB Town of North Manchester,,,Miriah Tobias,100,10,91,201
+696,Wabash,015-Chester 04,IN Supreme Court-Rush,,,Yes,133,11,107,251
+697,Wabash,015-Chester 04,IN Supreme Court-Rush,,,No,43,4,50,97
+698,Wabash,015-Chester 04,IN Supreme Court-Massa,,,Yes,127,9,103,239
+699,Wabash,015-Chester 04,IN Supreme Court-Massa,,,No,46,6,51,103
+700,Wabash,015-Chester 04,IN Supreme Court-Molter,,,Yes,130,9,103,242
+701,Wabash,015-Chester 04,IN Supreme Court-Molter,,,No,47,5,48,100
+702,Wabash,015-Chester 04,Court of Appeals Dist 4-Pyle III,,,Yes,132,11,99,242
+703,Wabash,015-Chester 04,Court of Appeals Dist 4-Pyle III,,,No,44,2,54,100
+704,Wabash,016-Chester 05,Ballots Cast,,,,196,83,255,534
+705,Wabash,016-Chester 05,Registered Voters,,,,,,,780
+706,Wabash,016-Chester 05,Public Question-Const Amendment,,,Yes,88,22,111,221
+707,Wabash,016-Chester 05,Public Question-Const Amendment,,,No,89,32,123,244
+708,Wabash,016-Chester 05,President and Vice-President of the U.S.,,REP,Trump \ Vance,126,25,124,275
+709,Wabash,016-Chester 05,President and Vice-President of the U.S.,,DEM,Harris \ Walz,61,57,129,247
+710,Wabash,016-Chester 05,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,1,1,0,2
+711,Wabash,016-Chester 05,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,4,0,2,6
+712,Wabash,016-Chester 05,President and Vice-President of the U.S.,,,Write-In,2,0,0,2
+713,Wabash,016-Chester 05,United States Senator,,REP,Jim Banks,123,26,118,267
+714,Wabash,016-Chester 05,United States Senator,,DEM,Valerie McCray,56,55,117,228
+715,Wabash,016-Chester 05,United States Senator,,LIB,Andrew Horning,9,1,3,13
+716,Wabash,016-Chester 05,United States Senator,,,Write-In,0,0,0,0
+717,Wabash,016-Chester 05,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,106,23,110,239
+718,Wabash,016-Chester 05,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,63,58,122,243
+719,Wabash,016-Chester 05,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,22,0,3,25
+720,Wabash,016-Chester 05,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+721,Wabash,016-Chester 05,Attorney General,,REP,Todd Rokita,127,24,121,272
+722,Wabash,016-Chester 05,Attorney General,,DEM,Destiny Wells,61,57,126,244
+723,Wabash,016-Chester 05,United States Representative,2,REP,Rudy Yakym,118,24,116,258
+724,Wabash,016-Chester 05,United States Representative,2,DEM,Lori A. Camp,59,58,125,242
+725,Wabash,016-Chester 05,United States Representative,2,LIB,William E. Henry,12,1,3,16
+726,Wabash,016-Chester 05,United States Representative,2,,Write-In,0,0,0,0
+727,Wabash,016-Chester 05,State Representative,50,REP,Lorissa Sweet,134,24,127,285
+728,Wabash,016-Chester 05,State Representative,50,DEM,Joe Swisher,57,57,115,229
+729,Wabash,016-Chester 05,County Auditor,,REP,Shelly Baucco,144,36,160,340
+730,Wabash,016-Chester 05,County Treasurer,,REP,Brenda Hegel,144,34,161,339
+731,Wabash,016-Chester 05,County Coroner,,REP,Ken Brown,150,36,161,347
+732,Wabash,016-Chester 05,County Surveyor,,REP,Cheri Slee,147,33,162,342
+733,Wabash,016-Chester 05,County Commissioner District 1,,REP,Cheryl Ross,145,34,156,335
+734,Wabash,016-Chester 05,County Commissioner District 3,,REP,Tyler J. Niccum,148,32,162,342
+735,Wabash,016-Chester 05,County Council Member At Large,,REP,Matt Dillon,106,25,96,227
+736,Wabash,016-Chester 05,County Council Member At Large,,REP,Nicholas Jay Kopkey,99,19,102,220
+737,Wabash,016-Chester 05,County Council Member At Large,,REP,David W. Terflinger,83,20,78,181
+738,Wabash,016-Chester 05,County Council Member At Large,,DEM,John T. Hargenrader,48,31,97,176
+739,Wabash,016-Chester 05,County Council Member At Large,,DEM,Tammy Ingalls,58,43,113,214
+740,Wabash,016-Chester 05,Manchester School Board Chester Township,,,Fred L Orr,127,45,161,333
+741,Wabash,016-Chester 05,Manchester SB Pleasant Township,,,Brian Michael Ramer,81,29,98,208
+742,Wabash,016-Chester 05,Manchester SB Pleasant Township,,,Shad Roth,51,18,80,149
+743,Wabash,016-Chester 05,Manchester SB Town of North Manchester,,,Amanda Johnson,75,28,99,202
+744,Wabash,016-Chester 05,Manchester SB Town of North Manchester,,,Miriah Tobias,85,26,104,215
+745,Wabash,016-Chester 05,IN Supreme Court-Rush,,,Yes,120,32,141,293
+746,Wabash,016-Chester 05,IN Supreme Court-Rush,,,No,38,16,54,108
+747,Wabash,016-Chester 05,IN Supreme Court-Massa,,,Yes,109,31,132,272
+748,Wabash,016-Chester 05,IN Supreme Court-Massa,,,No,46,14,60,120
+749,Wabash,016-Chester 05,IN Supreme Court-Molter,,,Yes,109,30,130,269
+750,Wabash,016-Chester 05,IN Supreme Court-Molter,,,No,43,14,61,118
+751,Wabash,016-Chester 05,Court of Appeals Dist 4-Pyle III,,,Yes,111,35,132,278
+752,Wabash,016-Chester 05,Court of Appeals Dist 4-Pyle III,,,No,40,9,56,105
+753,Wabash,017-Chester 06,Ballots Cast,,,,236,69,240,545
+754,Wabash,017-Chester 06,Registered Voters,,,,,,,864
+755,Wabash,017-Chester 06,Public Question-Const Amendment,,,Yes,115,21,100,236
+756,Wabash,017-Chester 06,Public Question-Const Amendment,,,No,104,29,115,248
+757,Wabash,017-Chester 06,President and Vice-President of the U.S.,,REP,Trump \ Vance,158,42,174,374
+758,Wabash,017-Chester 06,President and Vice-President of the U.S.,,DEM,Harris \ Walz,70,26,61,157
+759,Wabash,017-Chester 06,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,1,0,2,3
+760,Wabash,017-Chester 06,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,4,1,1,6
+761,Wabash,017-Chester 06,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
+762,Wabash,017-Chester 06,United States Senator,,REP,Jim Banks,157,46,170,373
+763,Wabash,017-Chester 06,United States Senator,,DEM,Valerie McCray,57,22,54,133
+764,Wabash,017-Chester 06,United States Senator,,LIB,Andrew Horning,10,0,5,15
+765,Wabash,017-Chester 06,United States Senator,,,Write-In,0,0,0,0
+766,Wabash,017-Chester 06,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,144,41,160,345
+767,Wabash,017-Chester 06,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,66,24,66,156
+768,Wabash,017-Chester 06,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,13,1,7,21
+769,Wabash,017-Chester 06,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+770,Wabash,017-Chester 06,Attorney General,,REP,Todd Rokita,151,45,170,366
+771,Wabash,017-Chester 06,Attorney General,,DEM,Destiny Wells,77,22,61,160
+772,Wabash,017-Chester 06,United States Representative,2,REP,Rudy Yakym,138,42,157,337
+773,Wabash,017-Chester 06,United States Representative,2,DEM,Lori A. Camp,71,23,59,153
+774,Wabash,017-Chester 06,United States Representative,2,LIB,William E. Henry,20,1,12,33
+775,Wabash,017-Chester 06,United States Representative,2,,Write-In,0,0,0,0
+776,Wabash,017-Chester 06,State Representative,50,REP,Lorissa Sweet,160,43,171,374
+777,Wabash,017-Chester 06,State Representative,50,DEM,Joe Swisher,70,23,59,152
+778,Wabash,017-Chester 06,County Auditor,,REP,Shelly Baucco,182,44,184,410
+779,Wabash,017-Chester 06,County Treasurer,,REP,Brenda Hegel,179,44,188,411
+780,Wabash,017-Chester 06,County Coroner,,REP,Ken Brown,182,42,186,410
+781,Wabash,017-Chester 06,County Surveyor,,REP,Cheri Slee,180,43,187,410
+782,Wabash,017-Chester 06,County Commissioner District 1,,REP,Cheryl Ross,177,44,183,404
+783,Wabash,017-Chester 06,County Commissioner District 3,,REP,Tyler J. Niccum,177,43,184,404
+784,Wabash,017-Chester 06,County Council Member At Large,,REP,Matt Dillon,127,30,124,281
+785,Wabash,017-Chester 06,County Council Member At Large,,REP,Nicholas Jay Kopkey,121,30,117,268
+786,Wabash,017-Chester 06,County Council Member At Large,,REP,David W. Terflinger,98,24,109,231
+787,Wabash,017-Chester 06,County Council Member At Large,,DEM,John T. Hargenrader,60,8,43,111
+788,Wabash,017-Chester 06,County Council Member At Large,,DEM,Tammy Ingalls,60,13,47,120
+789,Wabash,017-Chester 06,Manchester School Board Chester Township,,,Fred L Orr,160,30,148,338
+790,Wabash,017-Chester 06,Manchester SB Pleasant Township,,,Brian Michael Ramer,97,19,82,198
+791,Wabash,017-Chester 06,Manchester SB Pleasant Township,,,Shad Roth,76,12,87,175
+792,Wabash,017-Chester 06,Manchester SB Town of North Manchester,,,Amanda Johnson,91,17,98,206
+793,Wabash,017-Chester 06,Manchester SB Town of North Manchester,,,Miriah Tobias,107,17,88,212
+794,Wabash,017-Chester 06,IN Supreme Court-Rush,,,Yes,149,31,149,329
+795,Wabash,017-Chester 06,IN Supreme Court-Rush,,,No,51,4,42,97
+796,Wabash,017-Chester 06,IN Supreme Court-Massa,,,Yes,143,28,146,317
+797,Wabash,017-Chester 06,IN Supreme Court-Massa,,,No,54,6,44,104
+798,Wabash,017-Chester 06,IN Supreme Court-Molter,,,Yes,145,26,147,318
+799,Wabash,017-Chester 06,IN Supreme Court-Molter,,,No,51,6,43,100
+800,Wabash,017-Chester 06,Court of Appeals Dist 4-Pyle III,,,Yes,152,29,150,331
+801,Wabash,017-Chester 06,Court of Appeals Dist 4-Pyle III,,,No,48,4,39,91
+802,Wabash,018-Pleasant 01,Ballots Cast,,,,246,16,135,397
+803,Wabash,018-Pleasant 01,Registered Voters,,,,,,,649
+804,Wabash,018-Pleasant 01,Public Question-Const Amendment,,,Yes,121,2,56,179
+805,Wabash,018-Pleasant 01,Public Question-Const Amendment,,,No,99,6,65,170
+806,Wabash,018-Pleasant 01,President and Vice-President of the U.S.,,REP,Trump \ Vance,192,8,106,306
+807,Wabash,018-Pleasant 01,President and Vice-President of the U.S.,,DEM,Harris \ Walz,46,8,27,81
+808,Wabash,018-Pleasant 01,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,2,0,0,2
+809,Wabash,018-Pleasant 01,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,4,0,2,6
+810,Wabash,018-Pleasant 01,President and Vice-President of the U.S.,,,Write-In,1,0,0,1
+811,Wabash,018-Pleasant 01,United States Senator,,REP,Jim Banks,181,8,101,290
+812,Wabash,018-Pleasant 01,United States Senator,,DEM,Valerie McCray,43,7,26,76
+813,Wabash,018-Pleasant 01,United States Senator,,LIB,Andrew Horning,10,0,0,10
+814,Wabash,018-Pleasant 01,United States Senator,,,Write-In,0,0,0,0
+815,Wabash,018-Pleasant 01,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,165,8,95,268
+816,Wabash,018-Pleasant 01,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,50,6,27,83
+817,Wabash,018-Pleasant 01,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,20,1,9,30
+818,Wabash,018-Pleasant 01,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+819,Wabash,018-Pleasant 01,Attorney General,,REP,Todd Rokita,185,8,103,296
+820,Wabash,018-Pleasant 01,Attorney General,,DEM,Destiny Wells,52,7,29,88
+821,Wabash,018-Pleasant 01,United States Representative,2,REP,Rudy Yakym,173,8,100,281
+822,Wabash,018-Pleasant 01,United States Representative,2,DEM,Lori A. Camp,50,6,26,82
+823,Wabash,018-Pleasant 01,United States Representative,2,LIB,William E. Henry,14,0,3,17
+824,Wabash,018-Pleasant 01,United States Representative,2,,Write-In,0,0,0,0
+825,Wabash,018-Pleasant 01,State Representative,22,REP,Craig Snow,191,9,106,306
+826,Wabash,018-Pleasant 01,State Representative,22,LIB,Josh Vergiels,29,2,13,44
+827,Wabash,018-Pleasant 01,County Auditor,,REP,Shelly Baucco,203,10,102,315
+828,Wabash,018-Pleasant 01,County Treasurer,,REP,Brenda Hegel,200,9,103,312
+829,Wabash,018-Pleasant 01,County Coroner,,REP,Ken Brown,202,10,105,317
+830,Wabash,018-Pleasant 01,County Surveyor,,REP,Cheri Slee,204,10,105,319
+831,Wabash,018-Pleasant 01,County Commissioner District 1,,REP,Cheryl Ross,200,9,106,315
+832,Wabash,018-Pleasant 01,County Commissioner District 3,,REP,Tyler J. Niccum,206,9,101,316
+833,Wabash,018-Pleasant 01,County Council Member At Large,,REP,Matt Dillon,148,4,72,224
+834,Wabash,018-Pleasant 01,County Council Member At Large,,REP,Nicholas Jay Kopkey,120,4,62,186
+835,Wabash,018-Pleasant 01,County Council Member At Large,,REP,David W. Terflinger,114,4,60,178
+836,Wabash,018-Pleasant 01,County Council Member At Large,,DEM,John T. Hargenrader,34,6,16,56
+837,Wabash,018-Pleasant 01,County Council Member At Large,,DEM,Tammy Ingalls,46,6,25,77
+838,Wabash,018-Pleasant 01,Manchester School Board Chester Township,,,Fred L Orr,150,4,68,222
+839,Wabash,018-Pleasant 01,Manchester SB Pleasant Township,,,Brian Michael Ramer,91,4,48,143
+840,Wabash,018-Pleasant 01,Manchester SB Pleasant Township,,,Shad Roth,95,2,46,143
+841,Wabash,018-Pleasant 01,Manchester SB Town of North Manchester,,,Amanda Johnson,96,1,49,146
+842,Wabash,018-Pleasant 01,Manchester SB Town of North Manchester,,,Miriah Tobias,90,3,47,140
+843,Wabash,018-Pleasant 01,IN Supreme Court-Rush,,,Yes,142,6,68,216
+844,Wabash,018-Pleasant 01,IN Supreme Court-Rush,,,No,59,2,27,88
+845,Wabash,018-Pleasant 01,IN Supreme Court-Massa,,,Yes,132,4,71,207
+846,Wabash,018-Pleasant 01,IN Supreme Court-Massa,,,No,63,4,24,91
+847,Wabash,018-Pleasant 01,IN Supreme Court-Molter,,,Yes,144,3,68,215
+848,Wabash,018-Pleasant 01,IN Supreme Court-Molter,,,No,53,5,24,82
+849,Wabash,018-Pleasant 01,Court of Appeals Dist 4-Pyle III,,,Yes,142,6,68,216
+850,Wabash,018-Pleasant 01,Court of Appeals Dist 4-Pyle III,,,No,57,2,26,85
+851,Wabash,019-Pleasant 02,Ballots Cast,,,,335,31,269,635
+852,Wabash,019-Pleasant 02,Registered Voters,,,,,,,915
+853,Wabash,019-Pleasant 02,Public Question-Const Amendment,,,Yes,164,17,127,308
+854,Wabash,019-Pleasant 02,Public Question-Const Amendment,,,No,126,8,107,241
+855,Wabash,019-Pleasant 02,President and Vice-President of the U.S.,,REP,Trump \ Vance,274,19,211,504
+856,Wabash,019-Pleasant 02,President and Vice-President of the U.S.,,DEM,Harris \ Walz,54,12,53,119
+857,Wabash,019-Pleasant 02,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,0,0,1,1
+858,Wabash,019-Pleasant 02,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,4,0,1,5
+859,Wabash,019-Pleasant 02,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
+860,Wabash,019-Pleasant 02,United States Senator,,REP,Jim Banks,270,19,205,494
+861,Wabash,019-Pleasant 02,United States Senator,,DEM,Valerie McCray,45,12,50,107
+862,Wabash,019-Pleasant 02,United States Senator,,LIB,Andrew Horning,6,0,6,12
+863,Wabash,019-Pleasant 02,United States Senator,,,Write-In,0,0,0,0
+864,Wabash,019-Pleasant 02,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,240,18,195,453
+865,Wabash,019-Pleasant 02,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,53,13,56,122
+866,Wabash,019-Pleasant 02,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,29,0,8,37
+867,Wabash,019-Pleasant 02,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+868,Wabash,019-Pleasant 02,Attorney General,,REP,Todd Rokita,270,19,203,492
+869,Wabash,019-Pleasant 02,Attorney General,,DEM,Destiny Wells,51,11,58,120
+870,Wabash,019-Pleasant 02,United States Representative,2,REP,Rudy Yakym,261,20,203,484
+871,Wabash,019-Pleasant 02,United States Representative,2,DEM,Lori A. Camp,49,11,51,111
+872,Wabash,019-Pleasant 02,United States Representative,2,LIB,William E. Henry,13,0,7,20
+873,Wabash,019-Pleasant 02,United States Representative,2,,Write-In,0,0,0,0
+874,Wabash,019-Pleasant 02,State Representative,22,REP,Craig Snow,277,21,213,511
+875,Wabash,019-Pleasant 02,State Representative,22,LIB,Josh Vergiels,19,3,24,46
+876,Wabash,019-Pleasant 02,County Auditor,,REP,Shelly Baucco,281,21,215,517
+877,Wabash,019-Pleasant 02,County Treasurer,,REP,Brenda Hegel,284,21,212,517
+878,Wabash,019-Pleasant 02,County Coroner,,REP,Ken Brown,287,21,214,522
+879,Wabash,019-Pleasant 02,County Surveyor,,REP,Cheri Slee,282,21,211,514
+880,Wabash,019-Pleasant 02,County Commissioner District 1,,REP,Cheryl Ross,285,21,214,520
+881,Wabash,019-Pleasant 02,County Commissioner District 3,,REP,Tyler J. Niccum,281,21,212,514
+882,Wabash,019-Pleasant 02,County Council Member At Large,,REP,Matt Dillon,208,16,152,376
+883,Wabash,019-Pleasant 02,County Council Member At Large,,REP,Nicholas Jay Kopkey,184,14,147,345
+884,Wabash,019-Pleasant 02,County Council Member At Large,,REP,David W. Terflinger,155,16,124,295
+885,Wabash,019-Pleasant 02,County Council Member At Large,,DEM,John T. Hargenrader,33,9,38,80
+886,Wabash,019-Pleasant 02,County Council Member At Large,,DEM,Tammy Ingalls,48,10,46,104
+887,Wabash,019-Pleasant 02,Manchester School Board Chester Township,,,Fred L Orr,204,19,140,363
+888,Wabash,019-Pleasant 02,Manchester SB Pleasant Township,,,Brian Michael Ramer,139,12,98,249
+889,Wabash,019-Pleasant 02,Manchester SB Pleasant Township,,,Shad Roth,98,9,82,189
+890,Wabash,019-Pleasant 02,Manchester SB Town of North Manchester,,,Amanda Johnson,117,7,91,215
+891,Wabash,019-Pleasant 02,Manchester SB Town of North Manchester,,,Miriah Tobias,131,13,97,241
+892,Wabash,019-Pleasant 02,IN Supreme Court-Rush,,,Yes,189,19,158,366
+893,Wabash,019-Pleasant 02,IN Supreme Court-Rush,,,No,69,4,45,118
+894,Wabash,019-Pleasant 02,IN Supreme Court-Massa,,,Yes,190,19,156,365
+895,Wabash,019-Pleasant 02,IN Supreme Court-Massa,,,No,64,4,41,109
+896,Wabash,019-Pleasant 02,IN Supreme Court-Molter,,,Yes,195,18,155,368
+897,Wabash,019-Pleasant 02,IN Supreme Court-Molter,,,No,60,5,41,106
+898,Wabash,019-Pleasant 02,Court of Appeals Dist 4-Pyle III,,,Yes,196,19,154,369
+899,Wabash,019-Pleasant 02,Court of Appeals Dist 4-Pyle III,,,No,62,4,44,110
+900,Wabash,020-Lagro 01,Ballots Cast,,,,205,13,287,505
+901,Wabash,020-Lagro 01,Registered Voters,,,,,,,685
+902,Wabash,020-Lagro 01,Public Question-Const Amendment,,,Yes,111,1,134,246
+903,Wabash,020-Lagro 01,Public Question-Const Amendment,,,No,79,8,115,202
+904,Wabash,020-Lagro 01,President and Vice-President of the U.S.,,REP,Trump \ Vance,180,6,240,426
+905,Wabash,020-Lagro 01,President and Vice-President of the U.S.,,DEM,Harris \ Walz,21,7,44,72
+906,Wabash,020-Lagro 01,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,1,0,0,1
+907,Wabash,020-Lagro 01,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,1,0,1,2
+908,Wabash,020-Lagro 01,President and Vice-President of the U.S.,,,Write-In,1,0,0,1
+909,Wabash,020-Lagro 01,United States Senator,,REP,Jim Banks,167,5,233,405
+910,Wabash,020-Lagro 01,United States Senator,,DEM,Valerie McCray,18,7,35,60
+911,Wabash,020-Lagro 01,United States Senator,,LIB,Andrew Horning,5,0,6,11
+912,Wabash,020-Lagro 01,United States Senator,,,Write-In,0,0,0,0
+913,Wabash,020-Lagro 01,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,152,6,212,370
+914,Wabash,020-Lagro 01,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,20,7,45,72
+915,Wabash,020-Lagro 01,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,20,0,17,37
+916,Wabash,020-Lagro 01,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+917,Wabash,020-Lagro 01,Attorney General,,REP,Todd Rokita,162,5,240,407
+918,Wabash,020-Lagro 01,Attorney General,,DEM,Destiny Wells,34,7,39,80
+919,Wabash,020-Lagro 01,United States Representative,2,REP,Rudy Yakym,163,5,229,397
+920,Wabash,020-Lagro 01,United States Representative,2,DEM,Lori A. Camp,19,7,37,63
+921,Wabash,020-Lagro 01,United States Representative,2,LIB,William E. Henry,12,0,11,23
+922,Wabash,020-Lagro 01,United States Representative,2,,Write-In,0,0,0,0
+923,Wabash,020-Lagro 01,State Representative,50,REP,Lorissa Sweet,181,5,239,425
+924,Wabash,020-Lagro 01,State Representative,50,DEM,Joe Swisher,18,7,43,68
+925,Wabash,020-Lagro 01,County Auditor,,REP,Shelly Baucco,173,6,245,424
+926,Wabash,020-Lagro 01,County Treasurer,,REP,Brenda Hegel,172,6,240,418
+927,Wabash,020-Lagro 01,County Coroner,,REP,Ken Brown,172,6,246,424
+928,Wabash,020-Lagro 01,County Surveyor,,REP,Cheri Slee,173,6,245,424
+929,Wabash,020-Lagro 01,County Commissioner District 1,,REP,Cheryl Ross,172,6,248,426
+930,Wabash,020-Lagro 01,County Commissioner District 3,,REP,Tyler J. Niccum,176,6,243,425
+931,Wabash,020-Lagro 01,County Council Member At Large,,REP,Matt Dillon,151,8,200,359
+932,Wabash,020-Lagro 01,County Council Member At Large,,REP,Nicholas Jay Kopkey,102,5,141,248
+933,Wabash,020-Lagro 01,County Council Member At Large,,REP,David W. Terflinger,97,5,126,228
+934,Wabash,020-Lagro 01,County Council Member At Large,,DEM,John T. Hargenrader,13,6,28,47
+935,Wabash,020-Lagro 01,County Council Member At Large,,DEM,Tammy Ingalls,22,5,39,66
+936,Wabash,020-Lagro 01,MSD of Wabash SB Northeast District,,,Christian Rosen,139,3,163,305
+937,Wabash,020-Lagro 01,MSD of Wabash SB Northwest District,,,Scott A. Haupert,121,3,161,285
+938,Wabash,020-Lagro 01,MSD of Wabash SB South District,,,Kevin R. Bowman,128,5,166,299
+939,Wabash,020-Lagro 01,IN Supreme Court-Rush,,,Yes,127,5,155,287
+940,Wabash,020-Lagro 01,IN Supreme Court-Rush,,,No,35,2,48,85
+941,Wabash,020-Lagro 01,IN Supreme Court-Massa,,,Yes,127,4,148,279
+942,Wabash,020-Lagro 01,IN Supreme Court-Massa,,,No,33,2,51,86
+943,Wabash,020-Lagro 01,IN Supreme Court-Molter,,,Yes,130,4,148,282
+944,Wabash,020-Lagro 01,IN Supreme Court-Molter,,,No,32,2,51,85
+945,Wabash,020-Lagro 01,Court of Appeals Dist 4-Pyle III,,,Yes,131,5,152,288
+946,Wabash,020-Lagro 01,Court of Appeals Dist 4-Pyle III,,,No,33,1,52,86
+947,Wabash,021-Lagro 02,Ballots Cast,,,,347,27,321,695
+948,Wabash,021-Lagro 02,Registered Voters,,,,,,,998
+949,Wabash,021-Lagro 02,Public Question-Const Amendment,,,Yes,170,9,145,324
+950,Wabash,021-Lagro 02,Public Question-Const Amendment,,,No,137,6,139,282
+951,Wabash,021-Lagro 02,President and Vice-President of the U.S.,,REP,Trump \ Vance,283,16,264,563
+952,Wabash,021-Lagro 02,President and Vice-President of the U.S.,,DEM,Harris \ Walz,55,11,51,117
+953,Wabash,021-Lagro 02,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,2,0,0,2
+954,Wabash,021-Lagro 02,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,4,0,1,5
+955,Wabash,021-Lagro 02,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
+956,Wabash,021-Lagro 02,United States Senator,,REP,Jim Banks,261,17,255,533
+957,Wabash,021-Lagro 02,United States Senator,,DEM,Valerie McCray,53,10,48,111
+958,Wabash,021-Lagro 02,United States Senator,,LIB,Andrew Horning,12,0,4,16
+959,Wabash,021-Lagro 02,United States Senator,,,Write-In,0,0,0,0
+960,Wabash,021-Lagro 02,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,225,16,231,472
+961,Wabash,021-Lagro 02,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,63,10,54,127
+962,Wabash,021-Lagro 02,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,38,1,22,61
+963,Wabash,021-Lagro 02,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+964,Wabash,021-Lagro 02,Attorney General,,REP,Todd Rokita,259,17,248,524
+965,Wabash,021-Lagro 02,Attorney General,,DEM,Destiny Wells,66,10,53,129
+966,Wabash,021-Lagro 02,United States Representative,2,REP,Rudy Yakym,250,15,245,510
+967,Wabash,021-Lagro 02,United States Representative,2,DEM,Lori A. Camp,60,10,46,116
+968,Wabash,021-Lagro 02,United States Representative,2,LIB,William E. Henry,18,0,7,25
+969,Wabash,021-Lagro 02,United States Representative,2,,Write-In,0,0,0,0
+970,Wabash,021-Lagro 02,State Representative,50,REP,Lorissa Sweet,264,17,259,540
+971,Wabash,021-Lagro 02,State Representative,50,DEM,Joe Swisher,61,9,47,117
+972,Wabash,021-Lagro 02,County Auditor,,REP,Shelly Baucco,282,17,262,561
+973,Wabash,021-Lagro 02,County Treasurer,,REP,Brenda Hegel,281,17,255,553
+974,Wabash,021-Lagro 02,County Coroner,,REP,Ken Brown,280,17,256,553
+975,Wabash,021-Lagro 02,County Surveyor,,REP,Cheri Slee,281,17,260,558
+976,Wabash,021-Lagro 02,County Commissioner District 1,,REP,Cheryl Ross,284,17,260,561
+977,Wabash,021-Lagro 02,County Commissioner District 3,,REP,Tyler J. Niccum,291,15,268,574
+978,Wabash,021-Lagro 02,County Council Member At Large,,REP,Matt Dillon,230,12,204,446
+979,Wabash,021-Lagro 02,County Council Member At Large,,REP,Nicholas Jay Kopkey,161,8,145,314
+980,Wabash,021-Lagro 02,County Council Member At Large,,REP,David W. Terflinger,137,7,136,280
+981,Wabash,021-Lagro 02,County Council Member At Large,,DEM,John T. Hargenrader,47,5,34,86
+982,Wabash,021-Lagro 02,County Council Member At Large,,DEM,Tammy Ingalls,60,9,42,111
+983,Wabash,021-Lagro 02,MSD of Wabash SB Northeast District,,,Christian Rosen,239,12,199,450
+984,Wabash,021-Lagro 02,MSD of Wabash SB Northwest District,,,Scott A. Haupert,214,11,171,396
+985,Wabash,021-Lagro 02,MSD of Wabash SB South District,,,Kevin R. Bowman,205,12,148,365
+986,Wabash,021-Lagro 02,IN Supreme Court-Rush,,,Yes,209,11,180,400
+987,Wabash,021-Lagro 02,IN Supreme Court-Rush,,,No,66,4,51,121
+988,Wabash,021-Lagro 02,IN Supreme Court-Massa,,,Yes,201,10,173,384
+989,Wabash,021-Lagro 02,IN Supreme Court-Massa,,,No,67,5,51,123
+990,Wabash,021-Lagro 02,IN Supreme Court-Molter,,,Yes,204,10,172,386
+991,Wabash,021-Lagro 02,IN Supreme Court-Molter,,,No,64,5,48,117
+992,Wabash,021-Lagro 02,Court of Appeals Dist 4-Pyle III,,,Yes,206,11,175,392
+993,Wabash,021-Lagro 02,Court of Appeals Dist 4-Pyle III,,,No,67,5,47,119
+994,Wabash,022-Lagro 03,Ballots Cast,,,,101,11,172,284
+995,Wabash,022-Lagro 03,Registered Voters,,,,,,,407
+996,Wabash,022-Lagro 03,Public Question-Const Amendment,,,Yes,43,4,78,125
+997,Wabash,022-Lagro 03,Public Question-Const Amendment,,,No,49,5,68,122
+998,Wabash,022-Lagro 03,President and Vice-President of the U.S.,,REP,Trump \ Vance,87,7,144,238
+999,Wabash,022-Lagro 03,President and Vice-President of the U.S.,,DEM,Harris \ Walz,13,4,24,41
+1000,Wabash,022-Lagro 03,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,1,0,0,1
+1001,Wabash,022-Lagro 03,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,0,0,0,0
+1002,Wabash,022-Lagro 03,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
+1003,Wabash,022-Lagro 03,United States Senator,,REP,Jim Banks,82,7,140,229
+1004,Wabash,022-Lagro 03,United States Senator,,DEM,Valerie McCray,10,3,19,32
+1005,Wabash,022-Lagro 03,United States Senator,,LIB,Andrew Horning,4,0,2,6
+1006,Wabash,022-Lagro 03,United States Senator,,,Write-In,0,0,0,0
+1007,Wabash,022-Lagro 03,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,83,8,128,219
+1008,Wabash,022-Lagro 03,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,10,3,28,41
+1009,Wabash,022-Lagro 03,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,2,0,7,9
+1010,Wabash,022-Lagro 03,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+1011,Wabash,022-Lagro 03,Attorney General,,REP,Todd Rokita,85,8,142,235
+1012,Wabash,022-Lagro 03,Attorney General,,DEM,Destiny Wells,10,3,21,34
+1013,Wabash,022-Lagro 03,United States Representative,2,REP,Rudy Yakym,84,7,136,227
+1014,Wabash,022-Lagro 03,United States Representative,2,DEM,Lori A. Camp,10,4,21,35
+1015,Wabash,022-Lagro 03,United States Representative,2,LIB,William E. Henry,2,0,6,8
+1016,Wabash,022-Lagro 03,United States Representative,2,,Write-In,0,0,0,0
+1017,Wabash,022-Lagro 03,State Representative,50,REP,Lorissa Sweet,89,9,156,254
+1018,Wabash,022-Lagro 03,State Representative,50,DEM,Joe Swisher,9,2,12,23
+1019,Wabash,022-Lagro 03,County Auditor,,REP,Shelly Baucco,90,8,147,245
+1020,Wabash,022-Lagro 03,County Treasurer,,REP,Brenda Hegel,93,9,148,250
+1021,Wabash,022-Lagro 03,County Coroner,,REP,Ken Brown,91,9,146,246
+1022,Wabash,022-Lagro 03,County Surveyor,,REP,Cheri Slee,92,9,147,248
+1023,Wabash,022-Lagro 03,County Commissioner District 1,,REP,Cheryl Ross,89,8,144,241
+1024,Wabash,022-Lagro 03,County Commissioner District 3,,REP,Tyler J. Niccum,94,8,149,251
+1025,Wabash,022-Lagro 03,County Council Member At Large,,REP,Matt Dillon,72,5,109,186
+1026,Wabash,022-Lagro 03,County Council Member At Large,,REP,Nicholas Jay Kopkey,51,6,93,150
+1027,Wabash,022-Lagro 03,County Council Member At Large,,REP,David W. Terflinger,45,3,86,134
+1028,Wabash,022-Lagro 03,County Council Member At Large,,DEM,John T. Hargenrader,9,6,15,30
+1029,Wabash,022-Lagro 03,County Council Member At Large,,DEM,Tammy Ingalls,10,4,20,34
+1030,Wabash,022-Lagro 03,MSD of Wabash SB Northeast District,,,Christian Rosen,82,8,128,218
+1031,Wabash,022-Lagro 03,MSD of Wabash SB Northwest District,,,Scott A. Haupert,73,7,103,183
+1032,Wabash,022-Lagro 03,MSD of Wabash SB South District,,,Kevin R. Bowman,65,7,88,160
+1033,Wabash,022-Lagro 03,IN Supreme Court-Rush,,,Yes,66,4,93,163
+1034,Wabash,022-Lagro 03,IN Supreme Court-Rush,,,No,17,2,36,55
+1035,Wabash,022-Lagro 03,IN Supreme Court-Massa,,,Yes,63,4,85,152
+1036,Wabash,022-Lagro 03,IN Supreme Court-Massa,,,No,17,2,36,55
+1037,Wabash,022-Lagro 03,IN Supreme Court-Molter,,,Yes,66,5,95,166
+1038,Wabash,022-Lagro 03,IN Supreme Court-Molter,,,No,15,1,30,46
+1039,Wabash,022-Lagro 03,Court of Appeals Dist 4-Pyle III,,,Yes,62,4,91,157
+1040,Wabash,022-Lagro 03,Court of Appeals Dist 4-Pyle III,,,No,18,2,30,50
+1041,Wabash,023-Liberty 01,Ballots Cast,,,,257,29,230,516
+1042,Wabash,023-Liberty 01,Registered Voters,,,,,,,779
+1043,Wabash,023-Liberty 01,Public Question-Const Amendment,,,Yes,129,11,90,230
+1044,Wabash,023-Liberty 01,Public Question-Const Amendment,,,No,105,9,103,217
+1045,Wabash,023-Liberty 01,President and Vice-President of the U.S.,,REP,Trump \ Vance,201,20,185,406
+1046,Wabash,023-Liberty 01,President and Vice-President of the U.S.,,DEM,Harris \ Walz,49,9,43,101
+1047,Wabash,023-Liberty 01,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,0,0,0,0
+1048,Wabash,023-Liberty 01,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,2,0,0,2
+1049,Wabash,023-Liberty 01,President and Vice-President of the U.S.,,,Write-In,2,0,0,2
+1050,Wabash,023-Liberty 01,United States Senator,,REP,Jim Banks,190,19,178,387
+1051,Wabash,023-Liberty 01,United States Senator,,DEM,Valerie McCray,40,9,40,89
+1052,Wabash,023-Liberty 01,United States Senator,,LIB,Andrew Horning,13,0,5,18
+1053,Wabash,023-Liberty 01,United States Senator,,,Write-In,0,0,0,0
+1054,Wabash,023-Liberty 01,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,163,20,153,336
+1055,Wabash,023-Liberty 01,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,51,9,48,108
+1056,Wabash,023-Liberty 01,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,34,0,20,54
+1057,Wabash,023-Liberty 01,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+1058,Wabash,023-Liberty 01,Attorney General,,REP,Todd Rokita,185,19,177,381
+1059,Wabash,023-Liberty 01,Attorney General,,DEM,Destiny Wells,54,10,45,109
+1060,Wabash,023-Liberty 01,United States Representative,2,REP,Rudy Yakym,175,20,171,366
+1061,Wabash,023-Liberty 01,United States Representative,2,DEM,Lori A. Camp,51,9,42,102
+1062,Wabash,023-Liberty 01,United States Representative,2,LIB,William E. Henry,19,0,4,23
+1063,Wabash,023-Liberty 01,United States Representative,2,,Write-In,0,0,0,0
+1064,Wabash,023-Liberty 01,State Representative,50,REP,Lorissa Sweet,198,20,187,405
+1065,Wabash,023-Liberty 01,State Representative,50,DEM,Joe Swisher,47,9,32,88
+1066,Wabash,023-Liberty 01,County Auditor,,REP,Shelly Baucco,206,21,187,414
+1067,Wabash,023-Liberty 01,County Treasurer,,REP,Brenda Hegel,208,21,187,416
+1068,Wabash,023-Liberty 01,County Coroner,,REP,Ken Brown,209,21,189,419
+1069,Wabash,023-Liberty 01,County Surveyor,,REP,Cheri Slee,208,21,185,414
+1070,Wabash,023-Liberty 01,County Commissioner District 1,,REP,Cheryl Ross,209,21,187,417
+1071,Wabash,023-Liberty 01,County Commissioner District 3,,REP,Tyler J. Niccum,221,21,193,435
+1072,Wabash,023-Liberty 01,County Council Member At Large,,REP,Matt Dillon,162,11,144,317
+1073,Wabash,023-Liberty 01,County Council Member At Large,,REP,Nicholas Jay Kopkey,115,5,101,221
+1074,Wabash,023-Liberty 01,County Council Member At Large,,REP,David W. Terflinger,119,5,104,228
+1075,Wabash,023-Liberty 01,County Council Member At Large,,DEM,John T. Hargenrader,42,4,28,74
+1076,Wabash,023-Liberty 01,County Council Member At Large,,DEM,Tammy Ingalls,53,5,30,88
+1077,Wabash,023-Liberty 01,MSD of Wabash SB Northeast District,,,Christian Rosen,154,8,118,280
+1078,Wabash,023-Liberty 01,MSD of Wabash SB Northwest District,,,Scott A. Haupert,137,8,106,251
+1079,Wabash,023-Liberty 01,MSD of Wabash SB South District,,,Kevin R. Bowman,160,12,141,313
+1080,Wabash,023-Liberty 01,IN Supreme Court-Rush,,,Yes,153,10,113,276
+1081,Wabash,023-Liberty 01,IN Supreme Court-Rush,,,No,60,3,45,108
+1082,Wabash,023-Liberty 01,IN Supreme Court-Massa,,,Yes,148,8,116,272
+1083,Wabash,023-Liberty 01,IN Supreme Court-Massa,,,No,62,5,44,111
+1084,Wabash,023-Liberty 01,IN Supreme Court-Molter,,,Yes,148,8,119,275
+1085,Wabash,023-Liberty 01,IN Supreme Court-Molter,,,No,62,4,39,105
+1086,Wabash,023-Liberty 01,Court of Appeals Dist 4-Pyle III,,,Yes,152,7,123,282
+1087,Wabash,023-Liberty 01,Court of Appeals Dist 4-Pyle III,,,No,61,3,37,101
+1088,Wabash,024-Liberty 02,Ballots Cast,,,,212,21,308,541
+1089,Wabash,024-Liberty 02,Registered Voters,,,,,,,747
+1090,Wabash,024-Liberty 02,Public Question-Const Amendment,,,Yes,92,3,133,228
+1091,Wabash,024-Liberty 02,Public Question-Const Amendment,,,No,104,13,128,245
+1092,Wabash,024-Liberty 02,President and Vice-President of the U.S.,,REP,Trump \ Vance,174,14,246,434
+1093,Wabash,024-Liberty 02,President and Vice-President of the U.S.,,DEM,Harris \ Walz,32,7,55,94
+1094,Wabash,024-Liberty 02,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,0,0,2,2
+1095,Wabash,024-Liberty 02,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,4,0,4,8
+1096,Wabash,024-Liberty 02,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
+1097,Wabash,024-Liberty 02,United States Senator,,REP,Jim Banks,156,14,244,414
+1098,Wabash,024-Liberty 02,United States Senator,,DEM,Valerie McCray,31,7,50,88
+1099,Wabash,024-Liberty 02,United States Senator,,LIB,Andrew Horning,14,0,6,20
+1100,Wabash,024-Liberty 02,United States Senator,,,Write-In,0,0,0,0
+1101,Wabash,024-Liberty 02,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,126,14,229,369
+1102,Wabash,024-Liberty 02,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,40,7,55,102
+1103,Wabash,024-Liberty 02,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,32,0,18,50
+1104,Wabash,024-Liberty 02,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+1105,Wabash,024-Liberty 02,Attorney General,,REP,Todd Rokita,164,12,237,413
+1106,Wabash,024-Liberty 02,Attorney General,,DEM,Destiny Wells,36,7,61,104
+1107,Wabash,024-Liberty 02,United States Representative,2,REP,Rudy Yakym,143,13,229,385
+1108,Wabash,024-Liberty 02,United States Representative,2,DEM,Lori A. Camp,38,8,58,104
+1109,Wabash,024-Liberty 02,United States Representative,2,LIB,William E. Henry,17,0,8,25
+1110,Wabash,024-Liberty 02,United States Representative,2,,Write-In,0,0,0,0
+1111,Wabash,024-Liberty 02,State Representative,50,REP,Lorissa Sweet,170,13,251,434
+1112,Wabash,024-Liberty 02,State Representative,50,DEM,Joe Swisher,28,8,49,85
+1113,Wabash,024-Liberty 02,County Auditor,,REP,Shelly Baucco,182,14,251,447
+1114,Wabash,024-Liberty 02,County Treasurer,,REP,Brenda Hegel,182,14,252,448
+1115,Wabash,024-Liberty 02,County Coroner,,REP,Ken Brown,180,14,249,443
+1116,Wabash,024-Liberty 02,County Surveyor,,REP,Cheri Slee,182,14,252,448
+1117,Wabash,024-Liberty 02,County Commissioner District 1,,REP,Cheryl Ross,180,16,252,448
+1118,Wabash,024-Liberty 02,County Commissioner District 3,,REP,Tyler J. Niccum,183,16,256,455
+1119,Wabash,024-Liberty 02,County Council Member At Large,,REP,Matt Dillon,156,13,214,383
+1120,Wabash,024-Liberty 02,County Council Member At Large,,REP,Nicholas Jay Kopkey,95,13,146,254
+1121,Wabash,024-Liberty 02,County Council Member At Large,,REP,David W. Terflinger,88,13,148,249
+1122,Wabash,024-Liberty 02,County Council Member At Large,,DEM,John T. Hargenrader,33,3,40,76
+1123,Wabash,024-Liberty 02,County Council Member At Large,,DEM,Tammy Ingalls,37,4,54,95
+1124,Wabash,024-Liberty 02,MSD of Wabash SB Northeast District,,,Christian Rosen,144,12,173,329
+1125,Wabash,024-Liberty 02,MSD of Wabash SB Northwest District,,,Scott A. Haupert,139,10,160,309
+1126,Wabash,024-Liberty 02,MSD of Wabash SB South District,,,Kevin R. Bowman,151,11,181,343
+1127,Wabash,024-Liberty 02,IN Supreme Court-Rush,,,Yes,119,10,166,295
+1128,Wabash,024-Liberty 02,IN Supreme Court-Rush,,,No,51,4,59,114
+1129,Wabash,024-Liberty 02,IN Supreme Court-Massa,,,Yes,115,10,154,279
+1130,Wabash,024-Liberty 02,IN Supreme Court-Massa,,,No,52,4,66,122
+1131,Wabash,024-Liberty 02,IN Supreme Court-Molter,,,Yes,119,9,159,287
+1132,Wabash,024-Liberty 02,IN Supreme Court-Molter,,,No,49,5,61,115
+1133,Wabash,024-Liberty 02,Court of Appeals Dist 4-Pyle III,,,Yes,117,10,158,285
+1134,Wabash,024-Liberty 02,Court of Appeals Dist 4-Pyle III,,,No,52,4,63,119
+1135,Wabash,025-Paw Paw,Ballots Cast,,,,393,24,393,810
+1136,Wabash,025-Paw Paw,Registered Voters,,,,,,,1112
+1137,Wabash,025-Paw Paw,Public Question-Const Amendment,,,Yes,204,9,159,372
+1138,Wabash,025-Paw Paw,Public Question-Const Amendment,,,No,157,7,185,349
+1139,Wabash,025-Paw Paw,President and Vice-President of the U.S.,,REP,Trump \ Vance,316,15,328,659
+1140,Wabash,025-Paw Paw,President and Vice-President of the U.S.,,DEM,Harris \ Walz,65,8,57,130
+1141,Wabash,025-Paw Paw,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,3,1,1,5
+1142,Wabash,025-Paw Paw,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,4,0,0,4
+1143,Wabash,025-Paw Paw,President and Vice-President of the U.S.,,,Write-In,1,0,0,1
+1144,Wabash,025-Paw Paw,United States Senator,,REP,Jim Banks,301,16,316,633
+1145,Wabash,025-Paw Paw,United States Senator,,DEM,Valerie McCray,61,7,53,121
+1146,Wabash,025-Paw Paw,United States Senator,,LIB,Andrew Horning,10,1,3,14
+1147,Wabash,025-Paw Paw,United States Senator,,,Write-In,0,0,0,0
+1148,Wabash,025-Paw Paw,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,262,16,291,569
+1149,Wabash,025-Paw Paw,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,72,7,65,144
+1150,Wabash,025-Paw Paw,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,42,1,18,61
+1151,Wabash,025-Paw Paw,Governor And Lieutenant Governor,,,Write-In,0,0,0,0
+1152,Wabash,025-Paw Paw,Attorney General,,REP,Todd Rokita,301,16,315,632
+1153,Wabash,025-Paw Paw,Attorney General,,DEM,Destiny Wells,78,7,62,147
+1154,Wabash,025-Paw Paw,United States Representative,2,REP,Rudy Yakym,296,15,308,619
+1155,Wabash,025-Paw Paw,United States Representative,2,DEM,Lori A. Camp,60,7,58,125
+1156,Wabash,025-Paw Paw,United States Representative,2,LIB,William E. Henry,20,1,8,29
+1157,Wabash,025-Paw Paw,United States Representative,2,,Write-In,0,0,0,0
+1158,Wabash,025-Paw Paw,State Representative,50,REP,Lorissa Sweet,320,16,328,664
+1159,Wabash,025-Paw Paw,State Representative,50,DEM,Joe Swisher,59,7,52,118
+1160,Wabash,025-Paw Paw,County Auditor,,REP,Shelly Baucco,337,17,332,686
+1161,Wabash,025-Paw Paw,County Treasurer,,REP,Brenda Hegel,339,17,332,688
+1162,Wabash,025-Paw Paw,County Coroner,,REP,Ken Brown,329,17,324,670
+1163,Wabash,025-Paw Paw,County Surveyor,,REP,Cheri Slee,341,17,335,693
+1164,Wabash,025-Paw Paw,County Commissioner District 1,,REP,Cheryl Ross,339,15,338,692
+1165,Wabash,025-Paw Paw,County Commissioner District 3,,REP,Tyler J. Niccum,342,17,336,695
+1166,Wabash,025-Paw Paw,County Council Member At Large,,REP,Matt Dillon,264,10,270,544
+1167,Wabash,025-Paw Paw,County Council Member At Large,,REP,Nicholas Jay Kopkey,209,8,205,422
+1168,Wabash,025-Paw Paw,County Council Member At Large,,REP,David W. Terflinger,185,6,193,384
+1169,Wabash,025-Paw Paw,County Council Member At Large,,DEM,John T. Hargenrader,50,7,46,103
+1170,Wabash,025-Paw Paw,County Council Member At Large,,DEM,Tammy Ingalls,62,4,57,123
+1171,Wabash,025-Paw Paw,MSD of Wabash SB Northeast District,,,Christian Rosen,282,10,255,547
+1172,Wabash,025-Paw Paw,MSD of Wabash SB Northwest District,,,Scott A. Haupert,271,9,248,528
+1173,Wabash,025-Paw Paw,MSD of Wabash SB South District,,,Kevin R. Bowman,223,10,202,435
+1174,Wabash,025-Paw Paw,IN Supreme Court-Rush,,,Yes,238,9,222,469
+1175,Wabash,025-Paw Paw,IN Supreme Court-Rush,,,No,83,5,68,156
+1176,Wabash,025-Paw Paw,IN Supreme Court-Massa,,,Yes,242,9,212,463
+1177,Wabash,025-Paw Paw,IN Supreme Court-Massa,,,No,78,5,73,156
+1178,Wabash,025-Paw Paw,IN Supreme Court-Molter,,,Yes,249,9,216,474
+1179,Wabash,025-Paw Paw,IN Supreme Court-Molter,,,No,71,5,66,142
+1180,Wabash,025-Paw Paw,Court of Appeals Dist 4-Pyle III,,,Yes,241,9,218,468
+1181,Wabash,025-Paw Paw,Court of Appeals Dist 4-Pyle III,,,No,79,5,66,150
+1182,Wabash,026-Waltz,Ballots Cast,,,,230,27,410,667
+1183,Wabash,026-Waltz,Registered Voters,,,,,,,922
+1184,Wabash,026-Waltz,Public Question-Const Amendment,,,Yes,123,8,190,321
+1185,Wabash,026-Waltz,Public Question-Const Amendment,,,No,81,7,169,257
+1186,Wabash,026-Waltz,President and Vice-President of the U.S.,,REP,Trump \ Vance,191,23,333,547
+1187,Wabash,026-Waltz,President and Vice-President of the U.S.,,DEM,Harris \ Walz,32,3,68,103
+1188,Wabash,026-Waltz,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,1,1,1,3
+1189,Wabash,026-Waltz,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,1,0,6,7
+1190,Wabash,026-Waltz,President and Vice-President of the U.S.,,,Write-In,1,0,1,2
+1191,Wabash,026-Waltz,United States Senator,,REP,Jim Banks,191,22,330,543
+1192,Wabash,026-Waltz,United States Senator,,DEM,Valerie McCray,24,3,55,82
+1193,Wabash,026-Waltz,United States Senator,,LIB,Andrew Horning,2,0,4,6
+1194,Wabash,026-Waltz,United States Senator,,,Write-In,1,0,0,1
+1195,Wabash,026-Waltz,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,169,19,311,499
+1196,Wabash,026-Waltz,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,33,3,64,100
+1197,Wabash,026-Waltz,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,14,3,22,39
+1198,Wabash,026-Waltz,Governor And Lieutenant Governor,,,Write-In,1,0,0,1
+1199,Wabash,026-Waltz,Attorney General,,REP,Todd Rokita,188,22,325,535
+1200,Wabash,026-Waltz,Attorney General,,DEM,Destiny Wells,27,3,74,104
+1201,Wabash,026-Waltz,United States Representative,2,REP,Rudy Yakym,180,21,324,525
+1202,Wabash,026-Waltz,United States Representative,2,DEM,Lori A. Camp,31,3,63,97
+1203,Wabash,026-Waltz,United States Representative,2,LIB,William E. Henry,5,1,9,15
+1204,Wabash,026-Waltz,United States Representative,2,,Write-In,1,0,0,1
+1205,Wabash,026-Waltz,State Representative,50,REP,Lorissa Sweet,191,23,347,561
+1206,Wabash,026-Waltz,State Representative,50,DEM,Joe Swisher,27,2,60,89
+1207,Wabash,026-Waltz,County Auditor,,REP,Shelly Baucco,202,23,341,566
+1208,Wabash,026-Waltz,County Treasurer,,REP,Brenda Hegel,199,23,341,563
+1209,Wabash,026-Waltz,County Coroner,,REP,Ken Brown,196,23,334,553
+1210,Wabash,026-Waltz,County Surveyor,,REP,Cheri Slee,197,23,335,555
+1211,Wabash,026-Waltz,County Commissioner District 1,,REP,Cheryl Ross,194,23,341,558
+1212,Wabash,026-Waltz,County Commissioner District 3,,REP,Tyler J. Niccum,200,23,339,562
+1213,Wabash,026-Waltz,County Council Member At Large,,REP,Matt Dillon,151,21,271,443
+1214,Wabash,026-Waltz,County Council Member At Large,,REP,Nicholas Jay Kopkey,103,17,181,301
+1215,Wabash,026-Waltz,County Council Member At Large,,REP,David W. Terflinger,98,18,172,288
+1216,Wabash,026-Waltz,County Council Member At Large,,DEM,John T. Hargenrader,16,2,45,63
+1217,Wabash,026-Waltz,County Council Member At Large,,DEM,Tammy Ingalls,23,3,55,81
+1218,Wabash,026-Waltz,MSD of Wabash SB Northeast District,,,Christian Rosen,138,16,228,382
+1219,Wabash,026-Waltz,MSD of Wabash SB Northwest District,,,Scott A. Haupert,123,14,204,341
+1220,Wabash,026-Waltz,MSD of Wabash SB South District,,,Kevin R. Bowman,133,13,227,373
+1221,Wabash,026-Waltz,IN Supreme Court-Rush,,,Yes,132,19,229,380
+1222,Wabash,026-Waltz,IN Supreme Court-Rush,,,No,45,2,73,120
+1223,Wabash,026-Waltz,IN Supreme Court-Massa,,,Yes,128,17,219,364
+1224,Wabash,026-Waltz,IN Supreme Court-Massa,,,No,45,3,70,118
+1225,Wabash,026-Waltz,IN Supreme Court-Molter,,,Yes,131,18,216,365
+1226,Wabash,026-Waltz,IN Supreme Court-Molter,,,No,44,3,74,121
+1227,Wabash,026-Waltz,Court of Appeals Dist 4-Pyle III,,,Yes,128,17,213,358
+1228,Wabash,026-Waltz,Court of Appeals Dist 4-Pyle III,,,No,46,4,74,124
